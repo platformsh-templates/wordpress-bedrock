@@ -68,3 +68,8 @@ mounts:
     "web/wp/wp-content/uploads":
         source: local
         source_path: "uploads"
+crons:
+    # Run wordpress cron tasks every 10 minutes.
+    wordpress:
+        spec: '*/10 * * * *'
+        cmd: 'wp cron event run --due-now'
