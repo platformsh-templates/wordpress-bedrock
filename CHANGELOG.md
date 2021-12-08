@@ -1,3 +1,33 @@
+### 1.18.0: 2021-12-06
+* Bump requirements to PHP 7.4 ([#619](https://github.com/roots/bedrock/pull/619))
+
+### 1.17.1: 2021-11-16
+* Bump roots/wordpress from 5.8.1 to 5.8.2 ([#615](https://github.com/roots/bedrock/pull/615))
+
+### 1.17.0: 2021-11-03
+* Bump roots/wp-password-bcrypt from 1.0.0 to 1.1.0 ([#613](https://github.com/roots/bedrock/pull/613))
+* CI: Check Composer lock file is up to date ([#612](https://github.com/roots/bedrock/pull/612))
+* Update composer.lock file ([#611](https://github.com/roots/bedrock/pull/611))
+
+### 1.16.2: 2021-10-21
+* Update `roave/security-advisories` default branch ([#609](https://github.com/roots/bedrock/pull/609))
+* Bump composer/installers from 1.11.0 to 1.12.0 ([#606](https://github.com/roots/bedrock/pull/606))
+* Bump roots/wordpress from 5.8 to 5.8.1 ([#605](https://github.com/roots/bedrock/pull/605))
+
+### 1.16.1: 2021-07-30
+* Check if `.env.local` exists before loading it ([#603](https://github.com/roots/bedrock/pull/603))
+
+### 1.16.0: 2021-07-22 
+* Bump roots/wordpress from 5.7.2 to 5.8 ([#600](https://github.com/roots/bedrock/pull/600))
+* Default to `WP_DEBUG_LOG=true` in development ([#505](https://github.com/roots/bedrock/pull/505))
+* Support `.env.local` config override ([#594](https://github.com/roots/bedrock/pull/594))
+* Use Bedrock disallow indexing package ([#521](https://github.com/roots/bedrock/pull/521))
+
+### 1.15.4: 2021-05-19
+* Bump roots/wordpress from 5.7 to 5.7.2 ([#593](https://github.com/roots/bedrock/pull/593))
+* Bump composer/installers from 1.10.0 to 1.11.0 ([#592](https://github.com/roots/bedrock/pull/592))
+* chore(deps-dev): Bump squizlabs/php_codesniffer from 3.5.8 to 3.6.0 ([#588](https://github.com/roots/bedrock/pull/588))
+
 ### 1.15.3: 2021-03-12
 * chore(deps): Bump roots/wordpress from 5.6.2 to 5.7 ([#578](https://github.com/roots/bedrock/pull/578))
 
