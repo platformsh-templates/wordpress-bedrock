@@ -1045,16 +1045,16 @@
         },
         {
             "name": "mck89/peast",
-            "version": "v1.13.11",
+            "version": "v1.14.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/mck89/peast.git",
-                "reference": "78c57966f3da5f223636ea0417d71ac6ff61e47f"
+                "reference": "70a728d598017e237118652b2fa30fbaa9d4ef6d"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/mck89/peast/zipball/78c57966f3da5f223636ea0417d71ac6ff61e47f",
-                "reference": "78c57966f3da5f223636ea0417d71ac6ff61e47f",
+                "url": "https://api.github.com/repos/mck89/peast/zipball/70a728d598017e237118652b2fa30fbaa9d4ef6d",
+                "reference": "70a728d598017e237118652b2fa30fbaa9d4ef6d",
                 "shasum": ""
             },
             "require": {
@@ -1067,7 +1067,7 @@
             "type": "library",
             "extra": {
                 "branch-alias": {
-                    "dev-master": "1.13.11-dev"
+                    "dev-master": "1.14.0-dev"
                 }
             },
             "autoload": {
@@ -1089,9 +1089,9 @@
             "description": "Peast is PHP library that generates AST for JavaScript code",
             "support": {
                 "issues": "https://github.com/mck89/peast/issues",
-                "source": "https://github.com/mck89/peast/tree/v1.13.11"
+                "source": "https://github.com/mck89/peast/tree/v1.14.0"
             },
-            "time": "2022-01-11T17:58:18+00:00"
+            "time": "2022-05-01T15:09:54+00:00"
         },
         {
             "name": "mustache/mustache",
@@ -5441,12 +5441,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/Roave/SecurityAdvisories.git",
-                "reference": "0e5a0abdd695cd45870e442647ef03a70f2ec1e5"
+                "reference": "d086677fd11abf47d22bffa8806efa422a15c9d0"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/Roave/SecurityAdvisories/zipball/0e5a0abdd695cd45870e442647ef03a70f2ec1e5",
-                "reference": "0e5a0abdd695cd45870e442647ef03a70f2ec1e5",
+                "url": "https://api.github.com/repos/Roave/SecurityAdvisories/zipball/d086677fd11abf47d22bffa8806efa422a15c9d0",
+                "reference": "d086677fd11abf47d22bffa8806efa422a15c9d0",
                 "shasum": ""
             },
             "conflict": {
@@ -5718,7 +5718,7 @@
                 "pusher/pusher-php-server": "<2.2.1",
                 "pwweb/laravel-core": "<=0.3.6-beta",
                 "rainlab/debugbar-plugin": "<3.1",
-                "remdex/livehelperchat": "<3.96",
+                "remdex/livehelperchat": "<3.99",
                 "rmccue/requests": ">=1.6,<1.8",
                 "robrichards/xmlseclibs": "<3.0.4",
                 "rudloff/alltube": "<3.0.3",
@@ -5920,7 +5920,7 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2022-04-29T21:04:00+00:00"
+            "time": "2022-05-03T21:04:27+00:00"
         },
         {
             "name": "squizlabs/php_codesniffer",
