@@ -36,7 +36,11 @@ scenarioPaths.paths = [
 	{
 		"label": "Page 2 of Archives",
 		"path": "page/2/"
-	}
+	},
+  {
+    "label": "Forced 404",
+    "delay": 2000,
+  },
 ];
 
 module.exports = scenarioPaths;
