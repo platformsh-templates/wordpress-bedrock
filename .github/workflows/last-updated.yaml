@@ -27,5 +27,5 @@ jobs:
           date > ./.platform/last.updated
           git add ./.platform/last.updated
           git commit -m "auto-updates version, post merge"
-          git push origin main
+          git push origin ${{ github.event.repository.default_branch }}
 
