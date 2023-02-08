@@ -34,14 +34,6 @@ scenarioPaths.paths = [
         "path": "2023/02/07/a-starry-night-of-iceland/",
         "delay": 1500,
     },
-    {
-        "label": "Category: Uncategorized",
-        "path": "category/uncategorized/"
-    },
-	  {
-		    "label": "Page 2 of Archives",
-		    "path": "page/2/"
-	  }
 ];
 
 module.exports = scenarioPaths;
