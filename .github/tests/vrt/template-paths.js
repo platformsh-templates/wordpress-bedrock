@@ -26,17 +26,14 @@ var scenarioPaths = {};
  */
 scenarioPaths.paths = [
     {
-        "label":"MjY0MjUK",
-        "path": "2021/12/01/mjy0mjuk/"
+        "label": "Home",
+        "delay": 2000,
     },
     {
-        "label": "Category: Uncategorized",
-        "path": "category/uncategorized/"
+        "label":"Starry Night of Iceland",
+        "path": "2023/02/07/a-starry-night-of-iceland/",
+        "delay": 1500,
     },
-	{
-		"label": "Page 2 of Archives",
-		"path": "page/2/"
-	}
 ];
 
 module.exports = scenarioPaths;
