@@ -1863,7 +1863,7 @@
         },
         {
             "name": "roots/wordpress",
-            "version": "6.1.1",
+            "version": "6.2",
             "source": {
                 "type": "git",
                 "url": "https://github.com/roots/wordpress.git",
@@ -1894,16 +1894,12 @@
             ],
             "support": {
                 "issues": "https://github.com/roots/wordpress/issues",
-                "source": "https://github.com/roots/wordpress/tree/6.1.1"
+                "source": "https://github.com/roots/wordpress/tree/6.2"
             },
             "funding": [
                 {
                     "url": "https://github.com/roots",
                     "type": "github"
-                },
-                {
-                    "url": "https://www.patreon.com/rootsdev",
-                    "type": "patreon"
                 }
             ],
             "time": "2022-06-01T16:54:37+00:00"
@@ -1981,22 +1977,22 @@
         },
         {
             "name": "roots/wordpress-no-content",
-            "version": "6.1.1",
+            "version": "6.2",
             "source": {
                 "type": "git",
                 "url": "https://github.com/WordPress/WordPress.git",
-                "reference": "6.1.1"
+                "reference": "6.2"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/release/wordpress-6.1.1-no-content.zip",
-                "shasum": "ad2d202747c5356e7b6246fbc339b46aebfa0665"
+                "url": "https://downloads.wordpress.org/release/wordpress-6.2-no-content.zip",
+                "shasum": "f584c96734b9b7d3f770dbc176740cf92e54aa6c"
             },
             "require": {
                 "php": ">= 5.6.20"
             },
             "provide": {
-                "wordpress/core-implementation": "6.1.1"
+                "wordpress/core-implementation": "6.2"
             },
             "suggest": {
                 "ext-curl": "Performs remote request operations.",
@@ -2047,7 +2043,7 @@
                     "type": "other"
                 }
             ],
-            "time": "2022-11-15T19:14:34+00:00"
+            "time": "2023-03-29T18:03:09+00:00"
         },
         {
             "name": "roots/wp-config",
@@ -5587,15 +5583,15 @@
         },
         {
             "name": "wpackagist-theme/twentytwentythree",
-            "version": "1.0",
+            "version": "1.1",
             "source": {
                 "type": "svn",
                 "url": "https://themes.svn.wordpress.org/twentytwentythree/",
-                "reference": "1.0"
+                "reference": "1.1"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/theme/twentytwentythree.1.0.zip"
+                "url": "https://downloads.wordpress.org/theme/twentytwentythree.1.1.zip"
             },
             "require": {
                 "composer/installers": "^1.0 || ^2.0"
@@ -5611,12 +5607,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/Roave/SecurityAdvisories.git",
-                "reference": "08c832d96735c46a9d5849a5412fc4304e12d242"
+                "reference": "4b0e5298866d2c0719e1b207492ce5a553f08d92"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/Roave/SecurityAdvisories/zipball/08c832d96735c46a9d5849a5412fc4304e12d242",
-                "reference": "08c832d96735c46a9d5849a5412fc4304e12d242",
+                "url": "https://api.github.com/repos/Roave/SecurityAdvisories/zipball/4b0e5298866d2c0719e1b207492ce5a553f08d92",
+                "reference": "4b0e5298866d2c0719e1b207492ce5a553f08d92",
                 "shasum": ""
             },
             "conflict": {
@@ -6004,7 +6000,7 @@
                 "simplito/elliptic-php": "<1.0.6",
                 "sitegeist/fluid-components": "<3.5",
                 "slim/slim": "<2.6",
-                "smarty/smarty": "<3.1.47|>=4,<4.2.1",
+                "smarty/smarty": "<3.1.48|>=4,<4.3.1",
                 "snipe/snipe-it": "<=6.0.14|>= 6.0.0-RC-1, <= 6.0.0-RC-5",
                 "socalnick/scn-social-auth": "<1.15.2",
                 "socialiteproviders/steam": "<1.1",
@@ -6198,7 +6194,7 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2023-03-27T09:04:40+00:00"
+            "time": "2023-03-29T19:04:03+00:00"
         },
         {
             "name": "squizlabs/php_codesniffer",
