@@ -5607,12 +5607,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/Roave/SecurityAdvisories.git",
-                "reference": "6b077f852cc72d9c585dbf1241746b5af08ea1d4"
+                "reference": "d6da623259549bc05d08fd5f39d339d75f78a978"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/Roave/SecurityAdvisories/zipball/6b077f852cc72d9c585dbf1241746b5af08ea1d4",
-                "reference": "6b077f852cc72d9c585dbf1241746b5af08ea1d4",
+                "url": "https://api.github.com/repos/Roave/SecurityAdvisories/zipball/d6da623259549bc05d08fd5f39d339d75f78a978",
+                "reference": "d6da623259549bc05d08fd5f39d339d75f78a978",
                 "shasum": ""
             },
             "conflict": {
@@ -5974,8 +5974,8 @@
                 "scheb/two-factor-bundle": ">=0,<3.26|>=4,<4.11",
                 "sensiolabs/connect": "<4.2.3",
                 "serluck/phpwhois": "<=4.2.6",
-                "shopware/core": "<=6.4.18",
-                "shopware/platform": "<=6.4.18",
+                "shopware/core": "<=6.4.20",
+                "shopware/platform": "<=6.4.20",
                 "shopware/production": "<=6.3.5.2",
                 "shopware/shopware": "<=5.7.14",
                 "shopware/storefront": "<=6.4.8.1",
@@ -6199,7 +6199,7 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2023-04-17T18:04:34+00:00"
+            "time": "2023-04-18T14:04:28+00:00"
         },
         {
             "name": "squizlabs/php_codesniffer",
