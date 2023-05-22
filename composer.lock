@@ -5627,12 +5627,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/Roave/SecurityAdvisories.git",
-                "reference": "67504d48750a345d427a6e653b46704599c15d3d"
+                "reference": "a428b2d9dd8127d76663e8fb606051c5a807d13c"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/Roave/SecurityAdvisories/zipball/67504d48750a345d427a6e653b46704599c15d3d",
-                "reference": "67504d48750a345d427a6e653b46704599c15d3d",
+                "url": "https://api.github.com/repos/Roave/SecurityAdvisories/zipball/a428b2d9dd8127d76663e8fb606051c5a807d13c",
+                "reference": "a428b2d9dd8127d76663e8fb606051c5a807d13c",
                 "shasum": ""
             },
             "conflict": {
@@ -6030,7 +6030,7 @@
                 "simplesamlphp/simplesamlphp-module-openidprovider": "<0.9",
                 "simplito/elliptic-php": "<1.0.6",
                 "sitegeist/fluid-components": "<3.5",
-                "slim/psr7": "<1.6.1",
+                "slim/psr7": "<1.4.1|>=1.5,<1.5.1|>=1.6,<1.6.1",
                 "slim/slim": "<2.6",
                 "smarty/smarty": "<3.1.48|>=4,<4.3.1",
                 "snipe/snipe-it": "<=6.0.14|>= 6.0.0-RC-1, <= 6.0.0-RC-5",
@@ -6227,7 +6227,7 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2023-05-20T00:13:18+00:00"
+            "time": "2023-05-22T15:04:31+00:00"
         },
         {
             "name": "squizlabs/php_codesniffer",
