@@ -1665,16 +1665,16 @@
         },
         {
             "name": "rmccue/requests",
-            "version": "v2.0.6",
+            "version": "v2.0.7",
             "source": {
                 "type": "git",
                 "url": "https://github.com/WordPress/Requests.git",
-                "reference": "7d0f8394ea7846a7086978318c306123118445dc"
+                "reference": "e14a6f4e7438d3f8da3f2657759e6367b906ee23"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/WordPress/Requests/zipball/7d0f8394ea7846a7086978318c306123118445dc",
-                "reference": "7d0f8394ea7846a7086978318c306123118445dc",
+                "url": "https://api.github.com/repos/WordPress/Requests/zipball/e14a6f4e7438d3f8da3f2657759e6367b906ee23",
+                "reference": "e14a6f4e7438d3f8da3f2657759e6367b906ee23",
                 "shasum": ""
             },
             "require": {
@@ -1742,7 +1742,7 @@
                 "issues": "https://github.com/WordPress/Requests/issues",
                 "source": "https://github.com/WordPress/Requests"
             },
-            "time": "2023-04-04T09:01:49+00:00"
+            "time": "2023-06-02T07:35:42+00:00"
         },
         {
             "name": "roots/bedrock-autoloader",
@@ -4780,22 +4780,22 @@
         },
         {
             "name": "wp-cli/package-command",
-            "version": "v2.3.0",
+            "version": "v2.3.2",
             "source": {
                 "type": "git",
                 "url": "https://github.com/wp-cli/package-command.git",
-                "reference": "7b01ba9f858917ac7d103aef83da07ad87944019"
+                "reference": "88b7728c81105be91f1e1aabbdf3b4037999b5bd"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/wp-cli/package-command/zipball/7b01ba9f858917ac7d103aef83da07ad87944019",
-                "reference": "7b01ba9f858917ac7d103aef83da07ad87944019",
+                "url": "https://api.github.com/repos/wp-cli/package-command/zipball/88b7728c81105be91f1e1aabbdf3b4037999b5bd",
+                "reference": "88b7728c81105be91f1e1aabbdf3b4037999b5bd",
                 "shasum": ""
             },
             "require": {
                 "composer/composer": "^1.10.23 || ~2.2.17",
                 "ext-json": "*",
-                "wp-cli/wp-cli": "dev-main as 2.8.x-dev"
+                "wp-cli/wp-cli": "^2.8"
             },
             "require-dev": {
                 "wp-cli/scaffold-command": "^1 || ^2",
@@ -4839,9 +4839,9 @@
             "homepage": "https://github.com/wp-cli/package-command",
             "support": {
                 "issues": "https://github.com/wp-cli/package-command/issues",
-                "source": "https://github.com/wp-cli/package-command/tree/v2.3.0"
+                "source": "https://github.com/wp-cli/package-command/tree/v2.3.2"
             },
-            "time": "2023-05-12T14:57:18+00:00"
+            "time": "2023-06-02T06:17:19+00:00"
         },
         {
             "name": "wp-cli/php-cli-tools",
@@ -5404,16 +5404,16 @@
         },
         {
             "name": "wp-cli/wp-cli",
-            "version": "dev-main",
+            "version": "v2.8.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/wp-cli/wp-cli.git",
-                "reference": "5274e68d439df060873bdc9fa3e486d4aeeddf6e"
+                "reference": "acfc0c6cd4fc6a14e034b06afc4a0b37ebf9dcf7"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/wp-cli/wp-cli/zipball/5274e68d439df060873bdc9fa3e486d4aeeddf6e",
-                "reference": "5274e68d439df060873bdc9fa3e486d4aeeddf6e",
+                "url": "https://api.github.com/repos/wp-cli/wp-cli/zipball/acfc0c6cd4fc6a14e034b06afc4a0b37ebf9dcf7",
+                "reference": "acfc0c6cd4fc6a14e034b06afc4a0b37ebf9dcf7",
                 "shasum": ""
             },
             "require": {
@@ -5437,7 +5437,6 @@
                 "ext-readline": "Include for a better --prompt implementation",
                 "ext-zip": "Needed to support extraction of ZIP archives when doing downloads or updates"
             },
-            "default-branch": true,
             "bin": [
                 "bin/wp",
                 "bin/wp.bat"
@@ -5445,7 +5444,7 @@
             "type": "library",
             "extra": {
                 "branch-alias": {
-                    "dev-main": "2.9.x-dev"
+                    "dev-main": "2.8.x-dev"
                 }
             },
             "autoload": {
@@ -5472,7 +5471,7 @@
                 "issues": "https://github.com/wp-cli/wp-cli/issues",
                 "source": "https://github.com/wp-cli/wp-cli"
             },
-            "time": "2023-05-31T19:27:42+00:00"
+            "time": "2023-05-31T16:51:26+00:00"
         },
         {
             "name": "wp-cli/wp-cli-bundle",
@@ -5480,12 +5479,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/wp-cli/wp-cli-bundle.git",
-                "reference": "9a9787c0f573f38585d10d6d742f95b4f95446ed"
+                "reference": "c6edb2afc8d9fc0727f9cb45edc3c97c16c155c0"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/wp-cli/wp-cli-bundle/zipball/9a9787c0f573f38585d10d6d742f95b4f95446ed",
-                "reference": "9a9787c0f573f38585d10d6d742f95b4f95446ed",
+                "url": "https://api.github.com/repos/wp-cli/wp-cli-bundle/zipball/c6edb2afc8d9fc0727f9cb45edc3c97c16c155c0",
+                "reference": "c6edb2afc8d9fc0727f9cb45edc3c97c16c155c0",
                 "shasum": ""
             },
             "require": {
@@ -5516,7 +5515,7 @@
                 "wp-cli/shell-command": "^2",
                 "wp-cli/super-admin-command": "^2",
                 "wp-cli/widget-command": "^2",
-                "wp-cli/wp-cli": "dev-main"
+                "wp-cli/wp-cli": "^2.8.0"
             },
             "require-dev": {
                 "roave/security-advisories": "dev-latest",
@@ -5546,7 +5545,7 @@
                 "issues": "https://github.com/wp-cli/wp-cli-bundle/issues",
                 "source": "https://github.com/wp-cli/wp-cli-bundle"
             },
-            "time": "2023-05-31T14:38:05+00:00"
+            "time": "2023-05-31T19:28:30+00:00"
         },
         {
             "name": "wp-cli/wp-config-transformer",
