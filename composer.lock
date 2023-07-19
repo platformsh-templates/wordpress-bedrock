@@ -5535,12 +5535,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/Roave/SecurityAdvisories.git",
-                "reference": "aabdadfba4540f15ce8a7e1563362688a33eea06"
+                "reference": "7521cb38a353696d8c0f8eca07527d51096f6730"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/Roave/SecurityAdvisories/zipball/aabdadfba4540f15ce8a7e1563362688a33eea06",
-                "reference": "aabdadfba4540f15ce8a7e1563362688a33eea06",
+                "url": "https://api.github.com/repos/Roave/SecurityAdvisories/zipball/7521cb38a353696d8c0f8eca07527d51096f6730",
+                "reference": "7521cb38a353696d8c0f8eca07527d51096f6730",
                 "shasum": ""
             },
             "conflict": {
@@ -5938,6 +5938,7 @@
                 "shopware/storefront": "<=6.4.8.1",
                 "shopxo/shopxo": "<2.2.6",
                 "showdoc/showdoc": "<2.10.4",
+                "silverstripe-australia/advancedreports": ">=1,<=2",
                 "silverstripe/admin": "<=3",
                 "silverstripe/assets": ">=1,<1.11.1",
                 "silverstripe/cms": "<4.11.3",
@@ -6167,7 +6168,7 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2023-07-18T19:04:05+00:00"
+            "time": "2023-07-18T20:04:29+00:00"
         },
         {
             "name": "squizlabs/php_codesniffer",
