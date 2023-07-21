@@ -5535,12 +5535,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/Roave/SecurityAdvisories.git",
-                "reference": "bd50a5b0522c94e65c90eb8d8cc040a630a07b0c"
+                "reference": "277fc8e9cbde5745b1bfa46ada4b42b1718ac508"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/Roave/SecurityAdvisories/zipball/bd50a5b0522c94e65c90eb8d8cc040a630a07b0c",
-                "reference": "bd50a5b0522c94e65c90eb8d8cc040a630a07b0c",
+                "url": "https://api.github.com/repos/Roave/SecurityAdvisories/zipball/277fc8e9cbde5745b1bfa46ada4b42b1718ac508",
+                "reference": "277fc8e9cbde5745b1bfa46ada4b42b1718ac508",
                 "shasum": ""
             },
             "conflict": {
@@ -5820,7 +5820,7 @@
                 "modx/revolution": "<= 2.8.3-pl|<2.8",
                 "mojo42/jirafeau": "<4.4",
                 "monolog/monolog": ">=1.8,<1.12",
-                "moodle/moodle": "<4.2-rc.2|= 3.7|= 3.9|= 3.8|= 4.2.0|= 3.11",
+                "moodle/moodle": "<4.2-rc.2|= 3.5|= 3.7|= 3.9|= 3.8|= 4.2.0|= 3.11",
                 "movim/moxl": ">=0.8,<=0.10",
                 "mpdf/mpdf": "<=7.1.7",
                 "mustache/mustache": ">=2,<2.14.1",
@@ -6171,7 +6171,7 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2023-07-20T19:04:25+00:00"
+            "time": "2023-07-21T00:15:25+00:00"
         },
         {
             "name": "squizlabs/php_codesniffer",
