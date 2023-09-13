@@ -5536,12 +5536,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/Roave/SecurityAdvisories.git",
-                "reference": "6cbe3472c940a80f587886423020673520d36a29"
+                "reference": "0619000d51429baac52f0b24a90c44779a01e383"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/Roave/SecurityAdvisories/zipball/6cbe3472c940a80f587886423020673520d36a29",
-                "reference": "6cbe3472c940a80f587886423020673520d36a29",
+                "url": "https://api.github.com/repos/Roave/SecurityAdvisories/zipball/0619000d51429baac52f0b24a90c44779a01e383",
+                "reference": "0619000d51429baac52f0b24a90c44779a01e383",
                 "shasum": ""
             },
             "conflict": {
@@ -5608,6 +5608,7 @@
                 "cart2quote/module-quotation": ">=4.1.6,<=4.4.5|>=5,<5.4.4",
                 "cartalyst/sentry": "<=2.1.6",
                 "catfan/medoo": "<1.7.5",
+                "cecil/cecil": "<7.47.1",
                 "centreon/centreon": "<22.10.0.0-beta1",
                 "cesnet/simplesamlphp-module-proxystatistics": "<3.1",
                 "chriskacerguis/codeigniter-restserver": "<=2.7.1",
@@ -6195,7 +6196,7 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2023-09-11T21:04:03+00:00"
+            "time": "2023-09-12T20:04:25+00:00"
         },
         {
             "name": "squizlabs/php_codesniffer",
