@@ -5541,12 +5541,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/Roave/SecurityAdvisories.git",
-                "reference": "1d9a4a01c3d76c01633678a19bf14c9487c52cc4"
+                "reference": "a0e8338a060fc27a4a542d231cf42c57fa7e0b61"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/Roave/SecurityAdvisories/zipball/1d9a4a01c3d76c01633678a19bf14c9487c52cc4",
-                "reference": "1d9a4a01c3d76c01633678a19bf14c9487c52cc4",
+                "url": "https://api.github.com/repos/Roave/SecurityAdvisories/zipball/a0e8338a060fc27a4a542d231cf42c57fa7e0b61",
+                "reference": "a0e8338a060fc27a4a542d231cf42c57fa7e0b61",
                 "shasum": ""
             },
             "conflict": {
@@ -5872,7 +5872,7 @@
                 "onelogin/php-saml": "<2.10.4",
                 "oneup/uploader-bundle": "<1.9.3|>=2,<2.1.5",
                 "open-web-analytics/open-web-analytics": "<1.7.4",
-                "opencart/opencart": "<=3.0.3.7",
+                "opencart/opencart": "<=3.0.3.7|>=4,<4.0.2.3-dev",
                 "openid/php-openid": "<2.3",
                 "openmage/magento-lts": "<=19.5|>=20,<=20.1",
                 "opensource-workshop/connect-cms": "<1.7.2|>=2,<2.3.2",
@@ -5914,6 +5914,7 @@
                 "pimcore/admin-ui-classic-bundle": "<1.1.2",
                 "pimcore/customer-management-framework-bundle": "<3.4.2",
                 "pimcore/data-hub": "<1.2.4",
+                "pimcore/demo": "<10.3",
                 "pimcore/perspective-editor": "<1.5.1",
                 "pimcore/pimcore": "<10.6.8",
                 "pixelfed/pixelfed": "<=0.11.4",
@@ -6211,7 +6212,7 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2023-09-27T18:04:31+00:00"
+            "time": "2023-09-27T21:04:09+00:00"
         },
         {
             "name": "squizlabs/php_codesniffer",
