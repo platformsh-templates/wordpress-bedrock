@@ -5541,12 +5541,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/Roave/SecurityAdvisories.git",
-                "reference": "9166a1fe39cf6eb6d2b641d84e38e2fb3ad16fff"
+                "reference": "01d84c303adf879aeb278a3dd1dd166db945ee55"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/Roave/SecurityAdvisories/zipball/9166a1fe39cf6eb6d2b641d84e38e2fb3ad16fff",
-                "reference": "9166a1fe39cf6eb6d2b641d84e38e2fb3ad16fff",
+                "url": "https://api.github.com/repos/Roave/SecurityAdvisories/zipball/01d84c303adf879aeb278a3dd1dd166db945ee55",
+                "reference": "01d84c303adf879aeb278a3dd1dd166db945ee55",
                 "shasum": ""
             },
             "conflict": {
@@ -5688,7 +5688,7 @@
                 "ezsystems/ezplatform-richtext": ">=2.3,<2.3.7.1-dev",
                 "ezsystems/ezplatform-user": ">=1,<1.0.1",
                 "ezsystems/ezpublish-kernel": "<6.13.8.2-dev|>=7,<7.5.30",
-                "ezsystems/ezpublish-legacy": "<=2017.12.7.3|>=2018.06,<=2019.03.5.1",
+                "ezsystems/ezpublish-legacy": "<=2017.12.7.3|>=2018.6,<=2019.03.5.1",
                 "ezsystems/platform-ui-assets-bundle": ">=4.2,<4.2.3",
                 "ezsystems/repository-forms": ">=2.3,<2.3.2.1-dev|>=2.5,<2.5.15",
                 "ezyang/htmlpurifier": "<4.1.1",
@@ -6219,7 +6219,7 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2023-11-01T18:04:40+00:00"
+            "time": "2023-11-02T01:25:45+00:00"
         },
         {
             "name": "squizlabs/php_codesniffer",
