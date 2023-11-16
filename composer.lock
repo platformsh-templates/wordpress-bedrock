@@ -5541,12 +5541,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/Roave/SecurityAdvisories.git",
-                "reference": "b06feb3f7e6aaacf37e47bc0bf045e3baeb06374"
+                "reference": "4bca2ea3f3d800c4a25ed3171b03980fa247521b"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/Roave/SecurityAdvisories/zipball/b06feb3f7e6aaacf37e47bc0bf045e3baeb06374",
-                "reference": "b06feb3f7e6aaacf37e47bc0bf045e3baeb06374",
+                "url": "https://api.github.com/repos/Roave/SecurityAdvisories/zipball/4bca2ea3f3d800c4a25ed3171b03980fa247521b",
+                "reference": "4bca2ea3f3d800c4a25ed3171b03980fa247521b",
                 "shasum": ""
             },
             "conflict": {
@@ -5555,6 +5555,7 @@
                 "adodb/adodb-php": "<=5.20.20|>=5.21,<=5.21.3",
                 "aheinze/cockpit": "<2.2",
                 "aimeos/aimeos-typo3": "<19.10.12|>=20,<20.10.5",
+                "airesvsg/acf-to-rest-api": "<=3.1",
                 "akaunting/akaunting": "<2.1.13",
                 "akeneo/pim-community-dev": "<5.0.119|>=6,<6.0.53",
                 "alextselegidis/easyappointments": "<1.5",
@@ -6234,7 +6235,7 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2023-11-15T19:04:11+00:00"
+            "time": "2023-11-15T21:04:09+00:00"
         },
         {
             "name": "squizlabs/php_codesniffer",
