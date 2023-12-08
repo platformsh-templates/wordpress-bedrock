@@ -5542,12 +5542,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/Roave/SecurityAdvisories.git",
-                "reference": "cba4bc5f0f2762fd048518031678d59c5ab8b8d1"
+                "reference": "0402708f793858379aca388dfcbb4cf1373e1243"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/Roave/SecurityAdvisories/zipball/cba4bc5f0f2762fd048518031678d59c5ab8b8d1",
-                "reference": "cba4bc5f0f2762fd048518031678d59c5ab8b8d1",
+                "url": "https://api.github.com/repos/Roave/SecurityAdvisories/zipball/0402708f793858379aca388dfcbb4cf1373e1243",
+                "reference": "0402708f793858379aca388dfcbb4cf1373e1243",
                 "shasum": ""
             },
             "conflict": {
@@ -6089,6 +6089,7 @@
                 "symfony/web-profiler-bundle": ">=2,<2.3.19|>=2.4,<2.4.9|>=2.5,<2.5.4",
                 "symfony/webhook": ">=6.3,<6.3.8",
                 "symfony/yaml": ">=2,<2.0.22|>=2.1,<2.1.7",
+                "symphonycms/symphony-2": "<2.6.4",
                 "t3/dce": "<0.11.5|>=2.2,<2.6.2",
                 "t3g/svg-sanitizer": "<1.0.3",
                 "tastyigniter/tastyigniter": "<3.3",
@@ -6247,7 +6248,7 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2023-12-07T17:04:44+00:00"
+            "time": "2023-12-07T20:04:29+00:00"
         },
         {
             "name": "squizlabs/php_codesniffer",
