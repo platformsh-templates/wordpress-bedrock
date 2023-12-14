@@ -5546,12 +5546,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/Roave/SecurityAdvisories.git",
-                "reference": "876a7ddea6e56e438ac033c490cd585fcbb1cb51"
+                "reference": "ccb29669f00f1c5637c79c8e10efd10199696c65"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/Roave/SecurityAdvisories/zipball/876a7ddea6e56e438ac033c490cd585fcbb1cb51",
-                "reference": "876a7ddea6e56e438ac033c490cd585fcbb1cb51",
+                "url": "https://api.github.com/repos/Roave/SecurityAdvisories/zipball/ccb29669f00f1c5637c79c8e10efd10199696c65",
+                "reference": "ccb29669f00f1c5637c79c8e10efd10199696c65",
                 "shasum": ""
             },
             "conflict": {
@@ -6255,7 +6255,7 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2023-12-14T01:27:35+00:00"
+            "time": "2023-12-14T10:04:44+00:00"
         },
         {
             "name": "squizlabs/php_codesniffer",
