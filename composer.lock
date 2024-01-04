@@ -5546,12 +5546,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/Roave/SecurityAdvisories.git",
-                "reference": "1aa0cfd57670c4c1ecc7901284d7c12ae94e029d"
+                "reference": "00064dce85a7f693af908e4200a69554528e1ac7"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/Roave/SecurityAdvisories/zipball/1aa0cfd57670c4c1ecc7901284d7c12ae94e029d",
-                "reference": "1aa0cfd57670c4c1ecc7901284d7c12ae94e029d",
+                "url": "https://api.github.com/repos/Roave/SecurityAdvisories/zipball/00064dce85a7f693af908e4200a69554528e1ac7",
+                "reference": "00064dce85a7f693af908e4200a69554528e1ac7",
                 "shasum": ""
             },
             "conflict": {
@@ -5734,7 +5734,7 @@
                 "friendsoftypo3/mediace": ">=7.6.2,<7.6.5",
                 "friendsoftypo3/openid": ">=4.5,<4.5.31|>=4.7,<4.7.16|>=6,<6.0.11|>=6.1,<6.1.6",
                 "froala/wysiwyg-editor": "<3.2.7|>=4.0.1,<=4.1.1",
-                "froxlor/froxlor": "<2.1.0.0-beta1",
+                "froxlor/froxlor": "<=2.1.1",
                 "fuel/core": "<1.8.1",
                 "funadmin/funadmin": "<=3.2|>=3.3.2,<=3.3.3",
                 "gaoming13/wechat-php-sdk": "<=1.10.2",
@@ -6262,7 +6262,7 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2024-01-03T22:04:06+00:00"
+            "time": "2024-01-04T18:04:30+00:00"
         },
         {
             "name": "squizlabs/php_codesniffer",
