@@ -5546,12 +5546,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/Roave/SecurityAdvisories.git",
-                "reference": "00064dce85a7f693af908e4200a69554528e1ac7"
+                "reference": "680412bededc90d0b1e713621cc96d654aaba888"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/Roave/SecurityAdvisories/zipball/00064dce85a7f693af908e4200a69554528e1ac7",
-                "reference": "00064dce85a7f693af908e4200a69554528e1ac7",
+                "url": "https://api.github.com/repos/Roave/SecurityAdvisories/zipball/680412bededc90d0b1e713621cc96d654aaba888",
+                "reference": "680412bededc90d0b1e713621cc96d654aaba888",
                 "shasum": ""
             },
             "conflict": {
@@ -6145,7 +6145,7 @@
                 "usmanhalalit/pixie": "<1.0.3|>=2,<2.0.2",
                 "uvdesk/community-skeleton": "<=1.1.1",
                 "vanilla/safecurl": "<0.9.2",
-                "verot/class.upload.php": "<=1.0.3|>=2,<=2.0.4",
+                "verot/class.upload.php": "<=2.1.6",
                 "vova07/yii2-fileapi-widget": "<0.1.9",
                 "vrana/adminer": "<4.8.1",
                 "waldhacker/hcaptcha": "<2.1.2",
@@ -6262,7 +6262,7 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2024-01-04T18:04:30+00:00"
+            "time": "2024-01-04T21:04:31+00:00"
         },
         {
             "name": "squizlabs/php_codesniffer",
