@@ -5546,12 +5546,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/Roave/SecurityAdvisories.git",
-                "reference": "02dfd4d343b67ea455fc1e22324dbdaa872f547a"
+                "reference": "81ad497391b9fc55e18be0c94bf2a288f231630b"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/Roave/SecurityAdvisories/zipball/02dfd4d343b67ea455fc1e22324dbdaa872f547a",
-                "reference": "02dfd4d343b67ea455fc1e22324dbdaa872f547a",
+                "url": "https://api.github.com/repos/Roave/SecurityAdvisories/zipball/81ad497391b9fc55e18be0c94bf2a288f231630b",
+                "reference": "81ad497391b9fc55e18be0c94bf2a288f231630b",
                 "shasum": ""
             },
             "conflict": {
@@ -5837,7 +5837,8 @@
                 "lms/routes": "<2.1.1",
                 "localizationteam/l10nmgr": "<7.4|>=8,<8.7|>=9,<9.2",
                 "luyadev/yii-helpers": "<1.2.1",
-                "magento/community-edition": "<2.4.1.0-patch1",
+                "magento/community-edition": "<2.4.2.0-patch1",
+                "magento/core": "<1.9.4.5-dev",
                 "magento/magento1ce": "<1.9.4.3-dev",
                 "magento/magento1ee": ">=1,<1.14.4.3-dev",
                 "magento/product-community-edition": ">=2,<2.2.10|>=2.3,<2.3.2.0-patch2",
@@ -6264,7 +6265,7 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2024-01-10T17:04:28+00:00"
+            "time": "2024-01-11T00:14:53+00:00"
         },
         {
             "name": "squizlabs/php_codesniffer",
