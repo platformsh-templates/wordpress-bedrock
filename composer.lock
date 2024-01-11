@@ -1040,16 +1040,16 @@
         },
         {
             "name": "mck89/peast",
-            "version": "v1.15.4",
+            "version": "v1.16.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/mck89/peast.git",
-                "reference": "1df4dc28a6b5bb7ab117ab073c1712256e954e18"
+                "reference": "63dee902bd281c792f1dd760b6df268682032ed0"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/mck89/peast/zipball/1df4dc28a6b5bb7ab117ab073c1712256e954e18",
-                "reference": "1df4dc28a6b5bb7ab117ab073c1712256e954e18",
+                "url": "https://api.github.com/repos/mck89/peast/zipball/63dee902bd281c792f1dd760b6df268682032ed0",
+                "reference": "63dee902bd281c792f1dd760b6df268682032ed0",
                 "shasum": ""
             },
             "require": {
@@ -1062,7 +1062,7 @@
             "type": "library",
             "extra": {
                 "branch-alias": {
-                    "dev-master": "1.15.4-dev"
+                    "dev-master": "1.16.0-dev"
                 }
             },
             "autoload": {
@@ -1083,9 +1083,9 @@
             "description": "Peast is PHP library that generates AST for JavaScript code",
             "support": {
                 "issues": "https://github.com/mck89/peast/issues",
-                "source": "https://github.com/mck89/peast/tree/v1.15.4"
+                "source": "https://github.com/mck89/peast/tree/v1.16.0"
             },
-            "time": "2023-08-12T08:29:29+00:00"
+            "time": "2024-01-11T14:36:12+00:00"
         },
         {
             "name": "mustache/mustache",
@@ -5546,12 +5546,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/Roave/SecurityAdvisories.git",
-                "reference": "81ad497391b9fc55e18be0c94bf2a288f231630b"
+                "reference": "744af22752b3e39ce36e7de92c78863f04a24c5f"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/Roave/SecurityAdvisories/zipball/81ad497391b9fc55e18be0c94bf2a288f231630b",
-                "reference": "81ad497391b9fc55e18be0c94bf2a288f231630b",
+                "url": "https://api.github.com/repos/Roave/SecurityAdvisories/zipball/744af22752b3e39ce36e7de92c78863f04a24c5f",
+                "reference": "744af22752b3e39ce36e7de92c78863f04a24c5f",
                 "shasum": ""
             },
             "conflict": {
@@ -5837,11 +5837,12 @@
                 "lms/routes": "<2.1.1",
                 "localizationteam/l10nmgr": "<7.4|>=8,<8.7|>=9,<9.2",
                 "luyadev/yii-helpers": "<1.2.1",
-                "magento/community-edition": "<2.4.2.0-patch1",
-                "magento/core": "<1.9.4.5-dev",
+                "magento/community-edition": "<2.4.3.0-patch3|==2.4.4",
+                "magento/core": "<=1.9.4.5",
                 "magento/magento1ce": "<1.9.4.3-dev",
                 "magento/magento1ee": ">=1,<1.14.4.3-dev",
                 "magento/product-community-edition": ">=2,<2.2.10|>=2.3,<2.3.2.0-patch2",
+                "magneto/core": "<1.9.4.4-dev",
                 "maikuolan/phpmussel": ">=1,<1.6",
                 "mainwp/mainwp": "<=4.4.3.3",
                 "mantisbt/mantisbt": "<=2.25.7",
@@ -6265,7 +6266,7 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2024-01-11T00:14:53+00:00"
+            "time": "2024-01-11T19:04:11+00:00"
         },
         {
             "name": "squizlabs/php_codesniffer",
