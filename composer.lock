@@ -5320,12 +5320,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/wp-cli/wp-cli.git",
-                "reference": "93f588056ff567a9c50f12d475c7f7f64c2ff7fa"
+                "reference": "9a10827eed1bb23901ff86bcc6e4d652cada9394"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/wp-cli/wp-cli/zipball/93f588056ff567a9c50f12d475c7f7f64c2ff7fa",
-                "reference": "93f588056ff567a9c50f12d475c7f7f64c2ff7fa",
+                "url": "https://api.github.com/repos/wp-cli/wp-cli/zipball/9a10827eed1bb23901ff86bcc6e4d652cada9394",
+                "reference": "9a10827eed1bb23901ff86bcc6e4d652cada9394",
                 "shasum": ""
             },
             "require": {
@@ -5383,7 +5383,7 @@
                 "issues": "https://github.com/wp-cli/wp-cli/issues",
                 "source": "https://github.com/wp-cli/wp-cli"
             },
-            "time": "2024-02-05T19:53:57+00:00"
+            "time": "2024-02-06T21:00:48+00:00"
         },
         {
             "name": "wp-cli/wp-cli-bundle",
@@ -5529,12 +5529,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/Roave/SecurityAdvisories.git",
-                "reference": "9ea4e2d28628d32a5222d2efcd76d8a32be4c337"
+                "reference": "c40336338bdec5d61ee54fe4b2de3633b677a2e0"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/Roave/SecurityAdvisories/zipball/9ea4e2d28628d32a5222d2efcd76d8a32be4c337",
-                "reference": "9ea4e2d28628d32a5222d2efcd76d8a32be4c337",
+                "url": "https://api.github.com/repos/Roave/SecurityAdvisories/zipball/c40336338bdec5d61ee54fe4b2de3633b677a2e0",
+                "reference": "c40336338bdec5d61ee54fe4b2de3633b677a2e0",
                 "shasum": ""
             },
             "conflict": {
@@ -6118,11 +6118,13 @@
                 "ttskch/pagination-service-provider": "<1",
                 "twig/twig": "<1.44.7|>=2,<2.15.3|>=3,<3.4.3",
                 "typo3/cms": "<9.5.29|>=10,<10.4.35|>=11,<11.5.23|>=12,<12.2",
-                "typo3/cms-backend": ">=7,<=7.6.50|>=8,<=8.7.39|>=9,<=9.5.24|>=10,<=10.4.13|>=11,<=11.1",
+                "typo3/cms-backend": "<4.1.14|>=4.2,<4.2.13|>=4.3,<4.3.4|>=4.4,<4.4.1|>=7,<=7.6.50|>=8,<=8.7.39|>=9,<=9.5.24|>=10,<=10.4.13|>=11,<=11.1",
                 "typo3/cms-core": "<8.7.55|>=9,<9.5.44|>=10,<10.4.41|>=11,<11.5.33|>=12,<12.4.8",
                 "typo3/cms-extbase": "<6.2.24|>=7,<7.6.8|==8.1.1",
+                "typo3/cms-fluid": "<4.3.4|>=4.4,<4.4.1",
                 "typo3/cms-form": ">=8,<=8.7.39|>=9,<=9.5.24|>=10,<=10.4.13|>=11,<=11.1",
-                "typo3/cms-install": ">=12.2,<12.4.8",
+                "typo3/cms-frontend": "<4.1.14|>=4.2,<4.2.13|>=4.3,<4.3.4|>=4.4,<4.4.1",
+                "typo3/cms-install": "<4.1.14|>=4.2,<4.2.13|>=4.3,<4.3.4|>=4.4,<4.4.1|>=12.2,<12.4.8",
                 "typo3/cms-rte-ckeditor": ">=9.5,<9.5.42|>=10,<10.4.39|>=11,<11.5.30",
                 "typo3/flow": ">=1,<1.0.4|>=1.1,<1.1.1|>=2,<2.0.1|>=2.3,<2.3.16|>=3,<3.0.12|>=3.1,<3.1.10|>=3.2,<3.2.13|>=3.3,<3.3.13|>=4,<4.0.6",
                 "typo3/html-sanitizer": ">=1,<=1.5.2|>=2,<=2.1.3",
@@ -6254,7 +6256,7 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2024-02-06T19:04:37+00:00"
+            "time": "2024-02-07T00:13:28+00:00"
         },
         {
             "name": "squizlabs/php_codesniffer",
