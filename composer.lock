@@ -5748,12 +5748,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/Roave/SecurityAdvisories.git",
-                "reference": "1f77ae7f854c4163fc16d6500cea53e202e38f83"
+                "reference": "3c621b023ec96ba669e5510067b5d4fe4a1f51e0"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/Roave/SecurityAdvisories/zipball/1f77ae7f854c4163fc16d6500cea53e202e38f83",
-                "reference": "1f77ae7f854c4163fc16d6500cea53e202e38f83",
+                "url": "https://api.github.com/repos/Roave/SecurityAdvisories/zipball/3c621b023ec96ba669e5510067b5d4fe4a1f51e0",
+                "reference": "3c621b023ec96ba669e5510067b5d4fe4a1f51e0",
                 "shasum": ""
             },
             "conflict": {
@@ -5870,7 +5870,7 @@
                 "doctrine/mongodb-odm-bundle": "<3.0.1",
                 "doctrine/orm": ">=2,<2.4.8|>=2.5,<2.5.1|>=2.8.3,<2.8.4",
                 "dolibarr/dolibarr": "<18.0.2",
-                "dompdf/dompdf": "<2.0.4",
+                "dompdf/dompdf": "<=2.0.4",
                 "doublethreedigital/guest-entries": "<3.1.2",
                 "drupal/core": ">=6,<6.38|>=7,<7.96|>=8,<10.1.8|>=10.2,<10.2.2",
                 "drupal/drupal": ">=5,<5.11|>=6,<6.38|>=7,<7.80|>=8,<8.9.16|>=9,<9.1.12|>=9.2,<9.2.4",
@@ -6479,7 +6479,7 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2024-02-21T19:04:16+00:00"
+            "time": "2024-02-22T19:03:46+00:00"
         },
         {
             "name": "squizlabs/php_codesniffer",
