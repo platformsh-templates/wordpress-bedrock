@@ -5748,12 +5748,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/Roave/SecurityAdvisories.git",
-                "reference": "db0a10bf4058eebfd5e6335b414b72995791663f"
+                "reference": "de4aeda76503091f0d7b6f8a493f87994d6736a9"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/Roave/SecurityAdvisories/zipball/db0a10bf4058eebfd5e6335b414b72995791663f",
-                "reference": "db0a10bf4058eebfd5e6335b414b72995791663f",
+                "url": "https://api.github.com/repos/Roave/SecurityAdvisories/zipball/de4aeda76503091f0d7b6f8a493f87994d6736a9",
+                "reference": "de4aeda76503091f0d7b6f8a493f87994d6736a9",
                 "shasum": ""
             },
             "conflict": {
@@ -5945,7 +5945,7 @@
                 "gaoming13/wechat-php-sdk": "<=1.10.2",
                 "genix/cms": "<=1.1.11",
                 "getgrav/grav": "<1.7.44",
-                "getkirby/cms": "<=3.6.6.4|>=3.7,<=3.7.5.3|>=3.8,<=3.8.4.2|>=3.9,<=3.9.8|==3.10|>=4,<=4.1",
+                "getkirby/cms": "<4.1.1",
                 "getkirby/kirby": "<=2.5.12",
                 "getkirby/panel": "<2.5.14",
                 "getkirby/starterkit": "<=3.7.0.2",
@@ -6480,7 +6480,7 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2024-02-26T17:04:58+00:00"
+            "time": "2024-02-26T23:04:41+00:00"
         },
         {
             "name": "squizlabs/php_codesniffer",
