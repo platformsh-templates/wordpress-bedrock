@@ -5748,12 +5748,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/Roave/SecurityAdvisories.git",
-                "reference": "a2c33d8cc3719997b91b628eec3570d725cebf7e"
+                "reference": "f3cae247c87c28eca23eef2285698ec394367f56"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/Roave/SecurityAdvisories/zipball/a2c33d8cc3719997b91b628eec3570d725cebf7e",
-                "reference": "a2c33d8cc3719997b91b628eec3570d725cebf7e",
+                "url": "https://api.github.com/repos/Roave/SecurityAdvisories/zipball/f3cae247c87c28eca23eef2285698ec394367f56",
+                "reference": "f3cae247c87c28eca23eef2285698ec394367f56",
                 "shasum": ""
             },
             "conflict": {
@@ -5832,7 +5832,7 @@
                 "cockpit-hq/cockpit": "<=2.6.3|==2.7",
                 "codeception/codeception": "<3.1.3|>=4,<4.1.22",
                 "codeigniter/framework": "<3.1.9",
-                "codeigniter4/framework": "<=4.4.2",
+                "codeigniter4/framework": "<4.4.7",
                 "codeigniter4/shield": "<1.0.0.0-beta8",
                 "codiad/codiad": "<=2.8.4",
                 "composer/composer": "<1.10.27|>=2,<2.2.23|>=2.3,<2.7",
@@ -6483,7 +6483,7 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2024-03-26T22:04:37+00:00"
+            "time": "2024-03-29T17:05:01+00:00"
         },
         {
             "name": "squizlabs/php_codesniffer",
