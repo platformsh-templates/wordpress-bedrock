@@ -5748,12 +5748,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/Roave/SecurityAdvisories.git",
-                "reference": "2425db2c1c0df8d86dd9bf19f124b2f19441b9b5"
+                "reference": "00077527dfa5415280a28a044eca385eb3feb7ee"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/Roave/SecurityAdvisories/zipball/2425db2c1c0df8d86dd9bf19f124b2f19441b9b5",
-                "reference": "2425db2c1c0df8d86dd9bf19f124b2f19441b9b5",
+                "url": "https://api.github.com/repos/Roave/SecurityAdvisories/zipball/00077527dfa5415280a28a044eca385eb3feb7ee",
+                "reference": "00077527dfa5415280a28a044eca385eb3feb7ee",
                 "shasum": ""
             },
             "conflict": {
@@ -5837,7 +5837,7 @@
                 "codeigniter4/shield": "<1.0.0.0-beta8",
                 "codiad/codiad": "<=2.8.4",
                 "composer/composer": "<1.10.27|>=2,<2.2.23|>=2.3,<2.7",
-                "concrete5/concrete5": "<9.2.7",
+                "concrete5/concrete5": "<9.2.8",
                 "concrete5/core": "<8.5.8|>=9,<9.1",
                 "contao-components/mediaelement": ">=2.14.2,<2.21.1",
                 "contao/contao": ">=4,<4.4.56|>=4.5,<4.9.40|>=4.10,<4.11.7|>=4.13,<4.13.21|>=5.1,<5.1.4",
@@ -6217,8 +6217,8 @@
                 "serluck/phpwhois": "<=4.2.6",
                 "sfroemken/url_redirect": "<=1.2.1",
                 "sheng/yiicms": "<=1.2",
-                "shopware/core": "<=6.5.7.3",
-                "shopware/platform": "<=6.5.7.3|>=6.5.8,<6.5.8.7-dev",
+                "shopware/core": "<6.5.8.8-dev|>=6.6.0.0-RC1-dev,<6.6.1",
+                "shopware/platform": "<6.5.8.8-dev|>=6.6.0.0-RC1-dev,<6.6.1",
                 "shopware/production": "<=6.3.5.2",
                 "shopware/shopware": "<=5.7.17",
                 "shopware/storefront": "<=6.4.8.1|>=6.5.8,<6.5.8.7-dev",
@@ -6485,7 +6485,7 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2024-04-03T19:04:18+00:00"
+            "time": "2024-04-08T16:06:11+00:00"
         },
         {
             "name": "squizlabs/php_codesniffer",
