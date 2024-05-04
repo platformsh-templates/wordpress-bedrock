@@ -5750,12 +5750,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/Roave/SecurityAdvisories.git",
-                "reference": "f9d568f4dfd55d0a2a306d67330dde426277e0dc"
+                "reference": "ddcd0a72eec2dd32a4a4bb719a95201f753f12e8"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/Roave/SecurityAdvisories/zipball/f9d568f4dfd55d0a2a306d67330dde426277e0dc",
-                "reference": "f9d568f4dfd55d0a2a306d67330dde426277e0dc",
+                "url": "https://api.github.com/repos/Roave/SecurityAdvisories/zipball/ddcd0a72eec2dd32a4a4bb719a95201f753f12e8",
+                "reference": "ddcd0a72eec2dd32a4a4bb719a95201f753f12e8",
                 "shasum": ""
             },
             "conflict": {
@@ -6223,7 +6223,7 @@
                 "processwire/processwire": "<=3.0.210",
                 "propel/propel": ">=2.0.0.0-alpha1,<=2.0.0.0-alpha7",
                 "propel/propel1": ">=1,<=1.7.1",
-                "pterodactyl/panel": "<1.7",
+                "pterodactyl/panel": "<1.11.6",
                 "ptheofan/yii2-statemachine": ">=2.0.0.0-RC1-dev,<=2",
                 "ptrofimov/beanstalk_console": "<1.7.14",
                 "pubnub/pubnub": "<6.1",
@@ -6534,7 +6534,7 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2024-05-03T05:04:43+00:00"
+            "time": "2024-05-03T21:04:13+00:00"
         },
         {
             "name": "squizlabs/php_codesniffer",
