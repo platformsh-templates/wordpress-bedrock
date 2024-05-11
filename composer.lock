@@ -5774,12 +5774,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/Roave/SecurityAdvisories.git",
-                "reference": "900574fee9051d6d12301a84095638b4a537a840"
+                "reference": "6bdc6b064ecc2d47fd9aad5f3dce20f2a7dfcd64"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/Roave/SecurityAdvisories/zipball/900574fee9051d6d12301a84095638b4a537a840",
-                "reference": "900574fee9051d6d12301a84095638b4a537a840",
+                "url": "https://api.github.com/repos/Roave/SecurityAdvisories/zipball/6bdc6b064ecc2d47fd9aad5f3dce20f2a7dfcd64",
+                "reference": "6bdc6b064ecc2d47fd9aad5f3dce20f2a7dfcd64",
                 "shasum": ""
             },
             "conflict": {
@@ -6187,6 +6187,7 @@
                 "padraic/humbug_get_contents": "<1.1.2",
                 "pagarme/pagarme-php": "<3",
                 "pagekit/pagekit": "<=1.0.18",
+                "paragonie/ecc": "<2.0.1",
                 "paragonie/random_compat": "<2",
                 "passbolt/passbolt_api": "<4.6.2",
                 "paypal/adaptivepayments-sdk-php": "<=3.9.2",
@@ -6558,7 +6559,7 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2024-05-10T16:04:28+00:00"
+            "time": "2024-05-10T22:04:19+00:00"
         },
         {
             "name": "squizlabs/php_codesniffer",
