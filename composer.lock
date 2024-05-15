@@ -5774,12 +5774,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/Roave/SecurityAdvisories.git",
-                "reference": "8eea9afb8060c8ef05c89f02b123329f43e9ba4e"
+                "reference": "2c2d5f5b7212ab96fcf5fa479b9ca9d4c9c9b67a"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/Roave/SecurityAdvisories/zipball/8eea9afb8060c8ef05c89f02b123329f43e9ba4e",
-                "reference": "8eea9afb8060c8ef05c89f02b123329f43e9ba4e",
+                "url": "https://api.github.com/repos/Roave/SecurityAdvisories/zipball/2c2d5f5b7212ab96fcf5fa479b9ca9d4c9c9b67a",
+                "reference": "2c2d5f5b7212ab96fcf5fa479b9ca9d4c9c9b67a",
                 "shasum": ""
             },
             "conflict": {
@@ -5852,6 +5852,7 @@
                 "cardgate/magento2": "<2.0.33",
                 "cardgate/woocommerce": "<=3.1.15",
                 "cart2quote/module-quotation": ">=4.1.6,<=4.4.5|>=5,<5.4.4",
+                "cart2quote/module-quotation-encoded": ">=4.1.6,<=4.4.5|>=5,<5.4.4",
                 "cartalyst/sentry": "<=2.1.6",
                 "catfan/medoo": "<1.7.5",
                 "causal/oidc": "<2.1",
@@ -5900,7 +5901,7 @@
                 "doctrine/common": "<2.4.3|>=2.5,<2.5.1",
                 "doctrine/dbal": ">=2,<2.0.8|>=2.1,<2.1.2|>=3,<3.1.4",
                 "doctrine/doctrine-bundle": "<1.5.2",
-                "doctrine/doctrine-module": "<=0.7.1",
+                "doctrine/doctrine-module": "<0.7.2",
                 "doctrine/mongodb-odm": "<1.0.2",
                 "doctrine/mongodb-odm-bundle": "<3.0.1",
                 "doctrine/orm": ">=2,<2.4.8|>=2.5,<2.5.1|>=2.8.3,<2.8.4",
@@ -5941,7 +5942,7 @@
                 "ezsystems/ezplatform-solr-search-engine": ">=1.7,<1.7.12|>=2,<2.0.2|>=3.3,<3.3.15",
                 "ezsystems/ezplatform-user": ">=1,<1.0.1",
                 "ezsystems/ezpublish-kernel": "<6.13.8.2-dev|>=7,<7.5.31",
-                "ezsystems/ezpublish-legacy": "<=2017.12.7.3|>=2018.06,<=2019.03.5.1",
+                "ezsystems/ezpublish-legacy": "<=2017.12.7.3|>=2018.6,<=2019.03.5.1",
                 "ezsystems/platform-ui-assets-bundle": ">=4.2,<4.2.3",
                 "ezsystems/repository-forms": ">=2.3,<2.3.2.1-dev|>=2.5,<2.5.15",
                 "ezyang/htmlpurifier": "<4.1.1",
@@ -5987,7 +5988,7 @@
                 "funadmin/funadmin": "<=3.2|>=3.3.2,<=3.3.3",
                 "gaoming13/wechat-php-sdk": "<=1.10.2",
                 "genix/cms": "<=1.1.11",
-                "getgrav/grav": "<1.7.45",
+                "getgrav/grav": "<1.7.46",
                 "getkirby/cms": "<4.1.1",
                 "getkirby/kirby": "<=2.5.12",
                 "getkirby/panel": "<2.5.14",
@@ -6561,7 +6562,7 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2024-05-14T22:04:50+00:00"
+            "time": "2024-05-15T19:04:12+00:00"
         },
         {
             "name": "squizlabs/php_codesniffer",
