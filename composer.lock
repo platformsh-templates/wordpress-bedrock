@@ -2014,7 +2014,7 @@
             "dist": {
                 "type": "zip",
                 "url": "https://downloads.wordpress.org/release/wordpress-6.5.4-no-content.zip",
-                "shasum": "d6b3a78653efeff8edd463b2c24d62228bb98284"
+                "shasum": "bb4d48b2f6f47f4c06061460c83f8453e9809af5"
             },
             "require": {
                 "php": ">= 7.0.0"
@@ -2071,7 +2071,7 @@
                     "type": "other"
                 }
             ],
-            "time": "2024-06-05T16:02:37+00:00"
+            "time": "2024-06-06T12:30:39+00:00"
         },
         {
             "name": "roots/wp-config",
