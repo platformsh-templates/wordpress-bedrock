@@ -5776,12 +5776,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/Roave/SecurityAdvisories.git",
-                "reference": "cac81dc38cb1ea099552433245d0790b6e172211"
+                "reference": "c1fa2bf9896d5ce592bd78a9d01dc6ba836da82f"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/Roave/SecurityAdvisories/zipball/cac81dc38cb1ea099552433245d0790b6e172211",
-                "reference": "cac81dc38cb1ea099552433245d0790b6e172211",
+                "url": "https://api.github.com/repos/Roave/SecurityAdvisories/zipball/c1fa2bf9896d5ce592bd78a9d01dc6ba836da82f",
+                "reference": "c1fa2bf9896d5ce592bd78a9d01dc6ba836da82f",
                 "shasum": ""
             },
             "conflict": {
@@ -6469,7 +6469,7 @@
                 "winter/wn-dusk-plugin": "<2.1",
                 "winter/wn-system-module": "<1.2.4",
                 "wintercms/winter": "<=1.2.3",
-                "woocommerce/woocommerce": "<6.6",
+                "woocommerce/woocommerce": "<6.6|>=8.8,<8.8.5|>=8.9,<8.9.3",
                 "wp-cli/wp-cli": ">=0.12,<2.5",
                 "wp-graphql/wp-graphql": "<=1.14.5",
                 "wp-premium/gravityforms": "<2.4.21",
@@ -6571,7 +6571,7 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2024-06-10T22:04:51+00:00"
+            "time": "2024-06-12T20:04:30+00:00"
         },
         {
             "name": "squizlabs/php_codesniffer",
