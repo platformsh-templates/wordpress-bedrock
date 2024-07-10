@@ -3957,16 +3957,16 @@
         },
         {
             "name": "wp-cli/db-command",
-            "version": "v2.1.0",
+            "version": "v2.1.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/wp-cli/db-command.git",
-                "reference": "bf741ebc532f7d4673f4552d1b3589265205cf32"
+                "reference": "60ee5535e4b39e2d930894b7f435a2e488171c27"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/wp-cli/db-command/zipball/bf741ebc532f7d4673f4552d1b3589265205cf32",
-                "reference": "bf741ebc532f7d4673f4552d1b3589265205cf32",
+                "url": "https://api.github.com/repos/wp-cli/db-command/zipball/60ee5535e4b39e2d930894b7f435a2e488171c27",
+                "reference": "60ee5535e4b39e2d930894b7f435a2e488171c27",
                 "shasum": ""
             },
             "require": {
@@ -4025,9 +4025,9 @@
             "homepage": "https://github.com/wp-cli/db-command",
             "support": {
                 "issues": "https://github.com/wp-cli/db-command/issues",
-                "source": "https://github.com/wp-cli/db-command/tree/v2.1.0"
+                "source": "https://github.com/wp-cli/db-command/tree/v2.1.1"
             },
-            "time": "2024-04-27T03:11:44+00:00"
+            "time": "2024-07-10T17:31:56+00:00"
         },
         {
             "name": "wp-cli/embed-command",
@@ -5772,12 +5772,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/Roave/SecurityAdvisories.git",
-                "reference": "0970dcafb84065dda980b50a7074acacafd68368"
+                "reference": "fc38d77fa25d52b7da4c00962fa4189549c60e16"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/Roave/SecurityAdvisories/zipball/0970dcafb84065dda980b50a7074acacafd68368",
-                "reference": "0970dcafb84065dda980b50a7074acacafd68368",
+                "url": "https://api.github.com/repos/Roave/SecurityAdvisories/zipball/fc38d77fa25d52b7da4c00962fa4189549c60e16",
+                "reference": "fc38d77fa25d52b7da4c00962fa4189549c60e16",
                 "shasum": ""
             },
             "conflict": {
@@ -6252,7 +6252,7 @@
                 "prestashop/ps_emailsubscription": "<2.6.1",
                 "prestashop/ps_facetedsearch": "<3.4.1",
                 "prestashop/ps_linklist": "<3.1",
-                "privatebin/privatebin": "<1.4",
+                "privatebin/privatebin": "<1.4|>=1.5,<1.7.4",
                 "processwire/processwire": "<=3.0.210",
                 "propel/propel": ">=2.0.0.0-alpha1,<=2.0.0.0-alpha7",
                 "propel/propel1": ">=1,<=1.7.1",
@@ -6336,7 +6336,7 @@
                 "spoon/library": "<1.4.1",
                 "spoonity/tcpdf": "<6.2.22",
                 "squizlabs/php_codesniffer": ">=1,<2.8.1|>=3,<3.0.1",
-                "ssddanbrown/bookstack": "<22.02.3",
+                "ssddanbrown/bookstack": "<24.05.1",
                 "statamic/cms": "<4.46|>=5.3,<5.6.2",
                 "stormpath/sdk": "<9.9.99",
                 "studio-42/elfinder": "<2.1.62",
@@ -6572,7 +6572,7 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2024-07-08T20:05:45+00:00"
+            "time": "2024-07-10T17:04:19+00:00"
         },
         {
             "name": "squizlabs/php_codesniffer",
