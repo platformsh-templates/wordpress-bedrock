@@ -5772,12 +5772,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/Roave/SecurityAdvisories.git",
-                "reference": "8a515648fece51efcf2e3f79330e0cbcb7c09645"
+                "reference": "80e489d7669e5f7a4c56ca250489a0450d3d3219"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/Roave/SecurityAdvisories/zipball/8a515648fece51efcf2e3f79330e0cbcb7c09645",
-                "reference": "8a515648fece51efcf2e3f79330e0cbcb7c09645",
+                "url": "https://api.github.com/repos/Roave/SecurityAdvisories/zipball/80e489d7669e5f7a4c56ca250489a0450d3d3219",
+                "reference": "80e489d7669e5f7a4c56ca250489a0450d3d3219",
                 "shasum": ""
             },
             "conflict": {
@@ -6177,7 +6177,7 @@
                 "onelogin/php-saml": "<2.10.4",
                 "oneup/uploader-bundle": ">=1,<1.9.3|>=2,<2.1.5",
                 "open-web-analytics/open-web-analytics": "<1.7.4",
-                "opencart/opencart": "<=3.0.3.9|>=4",
+                "opencart/opencart": ">=0",
                 "openid/php-openid": "<2.3",
                 "openmage/magento-lts": "<20.5",
                 "opensolutions/vimbadmin": "<=3.0.15",
@@ -6575,7 +6575,7 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2024-07-17T15:06:03+00:00"
+            "time": "2024-07-18T00:16:06+00:00"
         },
         {
             "name": "squizlabs/php_codesniffer",
