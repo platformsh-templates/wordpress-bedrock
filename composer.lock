@@ -5779,12 +5779,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/Roave/SecurityAdvisories.git",
-                "reference": "15ddddd33caafb54bbaf7a5d88aed32046c361a9"
+                "reference": "fe2777b484817ebbbe50ad685af7525560198c59"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/Roave/SecurityAdvisories/zipball/15ddddd33caafb54bbaf7a5d88aed32046c361a9",
-                "reference": "15ddddd33caafb54bbaf7a5d88aed32046c361a9",
+                "url": "https://api.github.com/repos/Roave/SecurityAdvisories/zipball/fe2777b484817ebbbe50ad685af7525560198c59",
+                "reference": "fe2777b484817ebbbe50ad685af7525560198c59",
                 "shasum": ""
             },
             "conflict": {
@@ -5881,7 +5881,7 @@
                 "codeigniter4/shield": "<1.0.0.0-beta8",
                 "codiad/codiad": "<=2.8.4",
                 "composer/composer": "<1.10.27|>=2,<2.2.24|>=2.3,<2.7.7",
-                "concrete5/concrete5": "<=9.3.2",
+                "concrete5/concrete5": "<9.3.3",
                 "concrete5/core": "<8.5.8|>=9,<9.1",
                 "contao-components/mediaelement": ">=2.14.2,<2.21.1",
                 "contao/comments-bundle": ">=2,<4.13.40|>=5.0.0.0-RC1-dev,<5.3.4",
@@ -6586,7 +6586,7 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2024-08-08T15:04:38+00:00"
+            "time": "2024-08-08T21:04:55+00:00"
         },
         {
             "name": "squizlabs/php_codesniffer",
