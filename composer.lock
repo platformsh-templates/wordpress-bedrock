@@ -5779,12 +5779,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/Roave/SecurityAdvisories.git",
-                "reference": "39a2e3360d55163461cbb72e5d7c872b6c8b11a4"
+                "reference": "22aca9a3467be44288882a3bcf7f2865abe08ca3"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/Roave/SecurityAdvisories/zipball/39a2e3360d55163461cbb72e5d7c872b6c8b11a4",
-                "reference": "39a2e3360d55163461cbb72e5d7c872b6c8b11a4",
+                "url": "https://api.github.com/repos/Roave/SecurityAdvisories/zipball/22aca9a3467be44288882a3bcf7f2865abe08ca3",
+                "reference": "22aca9a3467be44288882a3bcf7f2865abe08ca3",
                 "shasum": ""
             },
             "conflict": {
@@ -5897,7 +5897,7 @@
                 "cuyz/valinor": "<0.12",
                 "czim/file-handling": "<1.5|>=2,<2.3",
                 "czproject/git-php": "<4.0.3",
-                "damienharper/auditor-bundle": "<6",
+                "damienharper/auditor-bundle": "<5.2.6",
                 "dapphp/securimage": "<3.6.6",
                 "darylldoyle/safe-svg": "<1.9.10",
                 "datadog/dd-trace": ">=0.30,<0.30.2",
@@ -6127,8 +6127,8 @@
                 "mantisbt/mantisbt": "<2.26.2",
                 "marcwillmann/turn": "<0.3.3",
                 "matyhtf/framework": "<3.0.6",
-                "mautic/core": "<4.4.12|>=5.0.0.0-alpha,<5.0.4",
-                "mautic/core-lib": ">=1.1.3,<4.4.13|>=5.0.0.0-alpha,<5.1.1",
+                "mautic/core": "<4.4.13|>=5.0.0.0-alpha,<5.1.1",
+                "mautic/core-lib": ">=1.0.0.0-beta,<4.4.13|>=5.0.0.0-alpha,<5.1.1",
                 "mdanter/ecc": "<2",
                 "mediawiki/core": "<1.36.2",
                 "mediawiki/matomo": "<2.4.3",
@@ -6596,7 +6596,7 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2024-09-18T18:05:47+00:00"
+            "time": "2024-09-18T23:05:04+00:00"
         },
         {
             "name": "squizlabs/php_codesniffer",
