@@ -5785,12 +5785,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/Roave/SecurityAdvisories.git",
-                "reference": "d63bf61e4925002df49bcec7043f7c821084c365"
+                "reference": "5f2153c997f1ad01915f80dd7c81ebf2b3a75c03"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/Roave/SecurityAdvisories/zipball/d63bf61e4925002df49bcec7043f7c821084c365",
-                "reference": "d63bf61e4925002df49bcec7043f7c821084c365",
+                "url": "https://api.github.com/repos/Roave/SecurityAdvisories/zipball/5f2153c997f1ad01915f80dd7c81ebf2b3a75c03",
+                "reference": "5f2153c997f1ad01915f80dd7c81ebf2b3a75c03",
                 "shasum": ""
             },
             "conflict": {
@@ -6357,7 +6357,7 @@
                 "simple-updates/phpwhois": "<=1",
                 "simplesamlphp/saml2": "<4.6.14|>=5.0.0.0-alpha1,<5.0.0.0-alpha18",
                 "simplesamlphp/saml2-legacy": "<4.6.14",
-                "simplesamlphp/simplesamlphp": "<2.0.15|>=2.1,<2.1.7|>=2.2,<2.2.4|>=2.3,<2.3.4",
+                "simplesamlphp/simplesamlphp": "<1.18.6",
                 "simplesamlphp/simplesamlphp-module-infocard": "<1.0.1",
                 "simplesamlphp/simplesamlphp-module-openid": "<1",
                 "simplesamlphp/simplesamlphp-module-openidprovider": "<0.9",
@@ -6624,7 +6624,7 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2024-12-03T15:05:29+00:00"
+            "time": "2024-12-03T20:05:54+00:00"
         },
         {
             "name": "squizlabs/php_codesniffer",
