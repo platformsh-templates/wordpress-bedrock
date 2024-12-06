@@ -5785,12 +5785,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/Roave/SecurityAdvisories.git",
-                "reference": "4ed4a2ac17e6d7bec06301356c4e15f595e47842"
+                "reference": "b3523fd17986613ba96c0fc01198d5e2ee61d57d"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/Roave/SecurityAdvisories/zipball/4ed4a2ac17e6d7bec06301356c4e15f595e47842",
-                "reference": "4ed4a2ac17e6d7bec06301356c4e15f595e47842",
+                "url": "https://api.github.com/repos/Roave/SecurityAdvisories/zipball/b3523fd17986613ba96c0fc01198d5e2ee61d57d",
+                "reference": "b3523fd17986613ba96c0fc01198d5e2ee61d57d",
                 "shasum": ""
             },
             "conflict": {
@@ -6453,7 +6453,7 @@
                 "thelia/thelia": ">=2.1,<2.1.3",
                 "theonedemon/phpwhois": "<=4.2.5",
                 "thinkcmf/thinkcmf": "<6.0.8",
-                "thorsten/phpmyfaq": "<3.2.2",
+                "thorsten/phpmyfaq": "<4",
                 "tikiwiki/tiki-manager": "<=17.1",
                 "timber/timber": ">=0.16.6,<1.23.1|>=1.24,<1.24.1|>=2,<2.1",
                 "tinymce/tinymce": "<7.2",
@@ -6625,7 +6625,7 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2024-12-05T20:05:42+00:00"
+            "time": "2024-12-06T19:04:48+00:00"
         },
         {
             "name": "squizlabs/php_codesniffer",
