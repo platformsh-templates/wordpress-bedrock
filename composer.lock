@@ -5786,12 +5786,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/Roave/SecurityAdvisories.git",
-                "reference": "3f5a01e629dcdd4d1fb6aa18fb1321d41683753c"
+                "reference": "40b10ff1029abd1495f436e155e7c97aa95466c9"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/Roave/SecurityAdvisories/zipball/3f5a01e629dcdd4d1fb6aa18fb1321d41683753c",
-                "reference": "3f5a01e629dcdd4d1fb6aa18fb1321d41683753c",
+                "url": "https://api.github.com/repos/Roave/SecurityAdvisories/zipball/40b10ff1029abd1495f436e155e7c97aa95466c9",
+                "reference": "40b10ff1029abd1495f436e155e7c97aa95466c9",
                 "shasum": ""
             },
             "conflict": {
@@ -6278,13 +6278,13 @@
                 "phpxmlrpc/phpxmlrpc": "<4.9.2",
                 "pi/pi": "<=2.5",
                 "pimcore/admin-ui-classic-bundle": "<1.5.4",
-                "pimcore/customer-management-framework-bundle": "<4.0.6",
+                "pimcore/customer-management-framework-bundle": "<4.2.1",
                 "pimcore/data-hub": "<1.2.4",
                 "pimcore/data-importer": "<1.8.9|>=1.9,<1.9.3",
                 "pimcore/demo": "<10.3",
                 "pimcore/ecommerce-framework-bundle": "<1.0.10",
                 "pimcore/perspective-editor": "<1.5.1",
-                "pimcore/pimcore": "<11.2.4",
+                "pimcore/pimcore": "<11.2.4|==11.4.2",
                 "pixelfed/pixelfed": "<0.11.11",
                 "plotly/plotly.js": "<2.25.2",
                 "pocketmine/bedrock-protocol": "<8.0.2",
@@ -6648,7 +6648,7 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2025-01-28T16:05:33+00:00"
+            "time": "2025-01-28T20:05:21+00:00"
         },
         {
             "name": "squizlabs/php_codesniffer",
