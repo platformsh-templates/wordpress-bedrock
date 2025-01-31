@@ -5573,12 +5573,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/wp-cli/wp-cli.git",
-                "reference": "ba1ccab6eb25844f6e0ca4f9fca5760687e5c50b"
+                "reference": "66777c139bf31a123a6a7439bf73ce58c4296198"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/wp-cli/wp-cli/zipball/ba1ccab6eb25844f6e0ca4f9fca5760687e5c50b",
-                "reference": "ba1ccab6eb25844f6e0ca4f9fca5760687e5c50b",
+                "url": "https://api.github.com/repos/wp-cli/wp-cli/zipball/66777c139bf31a123a6a7439bf73ce58c4296198",
+                "reference": "66777c139bf31a123a6a7439bf73ce58c4296198",
                 "shasum": ""
             },
             "require": {
@@ -5636,7 +5636,7 @@
                 "issues": "https://github.com/wp-cli/wp-cli/issues",
                 "source": "https://github.com/wp-cli/wp-cli"
             },
-            "time": "2025-01-28T15:26:37+00:00"
+            "time": "2025-01-30T22:15:13+00:00"
         },
         {
             "name": "wp-cli/wp-cli-bundle",
@@ -5786,12 +5786,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/Roave/SecurityAdvisories.git",
-                "reference": "4245b3fe2b3efed28fc094928cfe3ae625f18243"
+                "reference": "b6841f6613aeea6dbf722ac1663e6409653873d5"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/Roave/SecurityAdvisories/zipball/4245b3fe2b3efed28fc094928cfe3ae625f18243",
-                "reference": "4245b3fe2b3efed28fc094928cfe3ae625f18243",
+                "url": "https://api.github.com/repos/Roave/SecurityAdvisories/zipball/b6841f6613aeea6dbf722ac1663e6409653873d5",
+                "reference": "b6841f6613aeea6dbf722ac1663e6409653873d5",
                 "shasum": ""
             },
             "conflict": {
@@ -5828,6 +5828,7 @@
                 "asymmetricrypt/asymmetricrypt": "<9.9.99",
                 "athlon1600/php-proxy": "<=5.1",
                 "athlon1600/php-proxy-app": "<=3",
+                "athlon1600/youtube-downloader": "<=4",
                 "austintoddj/canvas": "<=3.4.2",
                 "auth0/wordpress": "<=4.6",
                 "automad/automad": "<2.0.0.0-alpha5",
@@ -6648,7 +6649,7 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2025-01-30T18:06:22+00:00"
+            "time": "2025-01-30T23:05:03+00:00"
         },
         {
             "name": "squizlabs/php_codesniffer",
