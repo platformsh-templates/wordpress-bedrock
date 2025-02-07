@@ -5786,12 +5786,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/Roave/SecurityAdvisories.git",
-                "reference": "fea491c34509d40dc45b48b9d1e18a5559eee9a6"
+                "reference": "4eebefef6c08168feb8801ec2b437f3b25179ab0"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/Roave/SecurityAdvisories/zipball/fea491c34509d40dc45b48b9d1e18a5559eee9a6",
-                "reference": "fea491c34509d40dc45b48b9d1e18a5559eee9a6",
+                "url": "https://api.github.com/repos/Roave/SecurityAdvisories/zipball/4eebefef6c08168feb8801ec2b437f3b25179ab0",
+                "reference": "4eebefef6c08168feb8801ec2b437f3b25179ab0",
                 "shasum": ""
             },
             "conflict": {
@@ -6417,7 +6417,7 @@
                 "sylius/grid-bundle": "<1.10.1",
                 "sylius/paypal-plugin": ">=1,<1.2.4|>=1.3,<1.3.1",
                 "sylius/resource-bundle": ">=1,<1.3.14|>=1.4,<1.4.7|>=1.5,<1.5.2|>=1.6,<1.6.4",
-                "sylius/sylius": "<=2.0.2",
+                "sylius/sylius": "<1.12.19|>=1.13.0.0-alpha1,<1.13.4",
                 "symbiote/silverstripe-multivaluefield": ">=3,<3.1",
                 "symbiote/silverstripe-queuedjobs": ">=3,<3.0.2|>=3.1,<3.1.4|>=4,<4.0.7|>=4.1,<4.1.2|>=4.2,<4.2.4|>=4.3,<4.3.3|>=4.4,<4.4.3|>=4.5,<4.5.1|>=4.6,<4.6.4",
                 "symbiote/silverstripe-seed": "<6.0.3",
@@ -6651,7 +6651,7 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2025-02-06T19:04:33+00:00"
+            "time": "2025-02-07T16:05:14+00:00"
         },
         {
             "name": "squizlabs/php_codesniffer",
