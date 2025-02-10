@@ -5786,12 +5786,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/Roave/SecurityAdvisories.git",
-                "reference": "24296413a9838930e7c039f5eaf985ccec766103"
+                "reference": "aef299e472b10cd299fed7d258fd1dc585e87443"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/Roave/SecurityAdvisories/zipball/24296413a9838930e7c039f5eaf985ccec766103",
-                "reference": "24296413a9838930e7c039f5eaf985ccec766103",
+                "url": "https://api.github.com/repos/Roave/SecurityAdvisories/zipball/aef299e472b10cd299fed7d258fd1dc585e87443",
+                "reference": "aef299e472b10cd299fed7d258fd1dc585e87443",
                 "shasum": ""
             },
             "conflict": {
@@ -6326,7 +6326,7 @@
                 "rap2hpoutre/laravel-log-viewer": "<0.13",
                 "react/http": ">=0.7,<1.9",
                 "really-simple-plugins/complianz-gdpr": "<6.4.2",
-                "redaxo/source": "<5.18",
+                "redaxo/source": "<=5.18.1",
                 "remdex/livehelperchat": "<4.29",
                 "reportico-web/reportico": "<=8.1",
                 "rhukster/dom-sanitizer": "<1.0.7",
@@ -6652,7 +6652,7 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2025-02-07T21:04:27+00:00"
+            "time": "2025-02-10T19:04:46+00:00"
         },
         {
             "name": "squizlabs/php_codesniffer",
