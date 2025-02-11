@@ -5786,12 +5786,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/Roave/SecurityAdvisories.git",
-                "reference": "aef299e472b10cd299fed7d258fd1dc585e87443"
+                "reference": "b3b8e9af2f66bf476ec0c4bbaf5ca069488c643e"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/Roave/SecurityAdvisories/zipball/aef299e472b10cd299fed7d258fd1dc585e87443",
-                "reference": "aef299e472b10cd299fed7d258fd1dc585e87443",
+                "url": "https://api.github.com/repos/Roave/SecurityAdvisories/zipball/b3b8e9af2f66bf476ec0c4bbaf5ca069488c643e",
+                "reference": "b3b8e9af2f66bf476ec0c4bbaf5ca069488c643e",
                 "shasum": ""
             },
             "conflict": {
@@ -6147,6 +6147,7 @@
                 "magento/magento1ce": "<1.9.4.3-dev",
                 "magento/magento1ee": ">=1,<1.14.4.3-dev",
                 "magento/product-community-edition": "<2.4.4.0-patch9|>=2.4.5,<2.4.5.0-patch8|>=2.4.6,<2.4.6.0-patch6|>=2.4.7,<2.4.7.0-patch1",
+                "magento/project-community-edition": "<=2.0.2",
                 "magneto/core": "<1.9.4.4-dev",
                 "maikuolan/phpmussel": ">=1,<1.6",
                 "mainwp/mainwp": "<=4.4.3.3",
@@ -6652,7 +6653,7 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2025-02-10T19:04:46+00:00"
+            "time": "2025-02-10T21:04:44+00:00"
         },
         {
             "name": "squizlabs/php_codesniffer",
