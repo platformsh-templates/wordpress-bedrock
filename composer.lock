@@ -3218,16 +3218,16 @@
         },
         {
             "name": "symfony/process",
-            "version": "v6.4.15",
+            "version": "v6.4.19",
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/process.git",
-                "reference": "3cb242f059c14ae08591c5c4087d1fe443564392"
+                "reference": "7a1c12e87b08ec9c97abdd188c9b3f5a40e37fc3"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/symfony/process/zipball/3cb242f059c14ae08591c5c4087d1fe443564392",
-                "reference": "3cb242f059c14ae08591c5c4087d1fe443564392",
+                "url": "https://api.github.com/repos/symfony/process/zipball/7a1c12e87b08ec9c97abdd188c9b3f5a40e37fc3",
+                "reference": "7a1c12e87b08ec9c97abdd188c9b3f5a40e37fc3",
                 "shasum": ""
             },
             "require": {
@@ -3259,7 +3259,7 @@
             "description": "Executes commands in sub-processes",
             "homepage": "https://symfony.com",
             "support": {
-                "source": "https://github.com/symfony/process/tree/v6.4.15"
+                "source": "https://github.com/symfony/process/tree/v6.4.19"
             },
             "funding": [
                 {
@@ -3275,7 +3275,7 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2024-11-06T14:19:14+00:00"
+            "time": "2025-02-04T13:35:48+00:00"
         },
         {
             "name": "symfony/service-contracts",
@@ -5573,12 +5573,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/wp-cli/wp-cli.git",
-                "reference": "fb8ac18ad41f7fc7ba3556bfca91d6701298671e"
+                "reference": "63115a0c31e91beab7368888e5c11154afe8ef55"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/wp-cli/wp-cli/zipball/fb8ac18ad41f7fc7ba3556bfca91d6701298671e",
-                "reference": "fb8ac18ad41f7fc7ba3556bfca91d6701298671e",
+                "url": "https://api.github.com/repos/wp-cli/wp-cli/zipball/63115a0c31e91beab7368888e5c11154afe8ef55",
+                "reference": "63115a0c31e91beab7368888e5c11154afe8ef55",
                 "shasum": ""
             },
             "require": {
@@ -5636,7 +5636,7 @@
                 "issues": "https://github.com/wp-cli/wp-cli/issues",
                 "source": "https://github.com/wp-cli/wp-cli"
             },
-            "time": "2025-02-25T18:42:53+00:00"
+            "time": "2025-02-26T15:36:40+00:00"
         },
         {
             "name": "wp-cli/wp-cli-bundle",
