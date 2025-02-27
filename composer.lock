@@ -5786,12 +5786,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/Roave/SecurityAdvisories.git",
-                "reference": "eec07a3f265e855f870e52b7c18c44822208e303"
+                "reference": "34461e30edf463b5f9522c60bd4f326f955fca69"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/Roave/SecurityAdvisories/zipball/eec07a3f265e855f870e52b7c18c44822208e303",
-                "reference": "eec07a3f265e855f870e52b7c18c44822208e303",
+                "url": "https://api.github.com/repos/Roave/SecurityAdvisories/zipball/34461e30edf463b5f9522c60bd4f326f955fca69",
+                "reference": "34461e30edf463b5f9522c60bd4f326f955fca69",
                 "shasum": ""
             },
             "conflict": {
@@ -6155,7 +6155,7 @@
                 "mantisbt/mantisbt": "<=2.26.3",
                 "marcwillmann/turn": "<0.3.3",
                 "matyhtf/framework": "<3.0.6",
-                "mautic/core": "<4.4.13|>=5.0.0.0-alpha,<5.1.1",
+                "mautic/core": "<5.2.3",
                 "mautic/core-lib": ">=1.0.0.0-beta,<4.4.13|>=5.0.0.0-alpha,<5.1.1",
                 "maximebf/debugbar": "<1.19",
                 "mdanter/ecc": "<2",
@@ -6654,7 +6654,7 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2025-02-25T16:05:58+00:00"
+            "time": "2025-02-26T21:04:53+00:00"
         },
         {
             "name": "squizlabs/php_codesniffer",
