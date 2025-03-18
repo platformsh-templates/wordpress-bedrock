@@ -931,16 +931,16 @@
         },
         {
             "name": "gettext/languages",
-            "version": "2.10.0",
+            "version": "2.11.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/php-gettext/Languages.git",
-                "reference": "4d61d67fe83a2ad85959fe6133d6d9ba7dddd1ab"
+                "reference": "77f3675a9e5d1be15b2064ecf0a1d27348d96cb2"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/php-gettext/Languages/zipball/4d61d67fe83a2ad85959fe6133d6d9ba7dddd1ab",
-                "reference": "4d61d67fe83a2ad85959fe6133d6d9ba7dddd1ab",
+                "url": "https://api.github.com/repos/php-gettext/Languages/zipball/77f3675a9e5d1be15b2064ecf0a1d27348d96cb2",
+                "reference": "77f3675a9e5d1be15b2064ecf0a1d27348d96cb2",
                 "shasum": ""
             },
             "require": {
@@ -950,7 +950,8 @@
                 "phpunit/phpunit": "^4.8 || ^5.7 || ^6.5 || ^7.5 || ^8.4"
             },
             "bin": [
-                "bin/export-plural-rules"
+                "bin/export-plural-rules",
+                "bin/import-cldr-data"
             ],
             "type": "library",
             "autoload": {
@@ -989,7 +990,7 @@
             ],
             "support": {
                 "issues": "https://github.com/php-gettext/Languages/issues",
-                "source": "https://github.com/php-gettext/Languages/tree/2.10.0"
+                "source": "https://github.com/php-gettext/Languages/tree/2.11.0"
             },
             "funding": [
                 {
@@ -1001,7 +1002,7 @@
                     "type": "github"
                 }
             ],
-            "time": "2022-10-18T15:00:10+00:00"
+            "time": "2025-03-18T10:27:00+00:00"
         },
         {
             "name": "graham-campbell/result-type",
@@ -5573,12 +5574,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/wp-cli/wp-cli.git",
-                "reference": "a39513b720ff9f17da6339d2a0f1579035dda193"
+                "reference": "b8f16d61bc1dab4b1f338423ba58dde56f2d442e"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/wp-cli/wp-cli/zipball/a39513b720ff9f17da6339d2a0f1579035dda193",
-                "reference": "a39513b720ff9f17da6339d2a0f1579035dda193",
+                "url": "https://api.github.com/repos/wp-cli/wp-cli/zipball/b8f16d61bc1dab4b1f338423ba58dde56f2d442e",
+                "reference": "b8f16d61bc1dab4b1f338423ba58dde56f2d442e",
                 "shasum": ""
             },
             "require": {
@@ -5635,7 +5636,7 @@
                 "issues": "https://github.com/wp-cli/wp-cli/issues",
                 "source": "https://github.com/wp-cli/wp-cli"
             },
-            "time": "2025-03-14T17:51:30+00:00"
+            "time": "2025-03-18T11:33:51+00:00"
         },
         {
             "name": "wp-cli/wp-cli-bundle",
@@ -5785,12 +5786,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/Roave/SecurityAdvisories.git",
-                "reference": "9ec3309dcdef9afaf7649b5ddff330d58abe4d34"
+                "reference": "082338f65948c175f5d9be2f420571b40f254e58"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/Roave/SecurityAdvisories/zipball/9ec3309dcdef9afaf7649b5ddff330d58abe4d34",
-                "reference": "9ec3309dcdef9afaf7649b5ddff330d58abe4d34",
+                "url": "https://api.github.com/repos/Roave/SecurityAdvisories/zipball/082338f65948c175f5d9be2f420571b40f254e58",
+                "reference": "082338f65948c175f5d9be2f420571b40f254e58",
                 "shasum": ""
             },
             "conflict": {
@@ -5883,12 +5884,14 @@
                 "chriskacerguis/codeigniter-restserver": "<=2.7.1",
                 "civicrm/civicrm-core": ">=4.2,<4.2.9|>=4.3,<4.3.3",
                 "ckeditor/ckeditor": "<4.25",
+                "clickstorm/cs-seo": ">=6,<6.7|>=7,<7.4|>=8,<8.3|>=9,<9.2",
                 "cockpit-hq/cockpit": "<2.7|==2.7",
                 "codeception/codeception": "<3.1.3|>=4,<4.1.22",
                 "codeigniter/framework": "<3.1.9",
                 "codeigniter4/framework": "<4.5.8",
                 "codeigniter4/shield": "<1.0.0.0-beta8",
                 "codiad/codiad": "<=2.8.4",
+                "codingms/additional-tca": ">=1.7,<1.15.17|>=1.16,<1.16.9",
                 "components/jquery": ">=1.0.3,<3.5",
                 "composer/composer": "<1.10.27|>=2,<2.2.24|>=2.3,<2.7.7",
                 "concrete5/concrete5": "<9.4.0.0-RC1-dev",
@@ -6655,20 +6658,20 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2025-03-17T22:04:58+00:00"
+            "time": "2025-03-18T11:05:04+00:00"
         },
         {
             "name": "squizlabs/php_codesniffer",
-            "version": "3.11.3",
+            "version": "3.12.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/PHPCSStandards/PHP_CodeSniffer.git",
-                "reference": "ba05f990e79cbe69b9f35c8c1ac8dca7eecc3a10"
+                "reference": "2d1b63db139c3c6ea0c927698e5160f8b3b8d630"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/PHPCSStandards/PHP_CodeSniffer/zipball/ba05f990e79cbe69b9f35c8c1ac8dca7eecc3a10",
-                "reference": "ba05f990e79cbe69b9f35c8c1ac8dca7eecc3a10",
+                "url": "https://api.github.com/repos/PHPCSStandards/PHP_CodeSniffer/zipball/2d1b63db139c3c6ea0c927698e5160f8b3b8d630",
+                "reference": "2d1b63db139c3c6ea0c927698e5160f8b3b8d630",
                 "shasum": ""
             },
             "require": {
@@ -6735,11 +6738,11 @@
                     "type": "open_collective"
                 },
                 {
-                    "url": "https://thanks.dev/phpcsstandards",
+                    "url": "https://thanks.dev/u/gh/phpcsstandards",
                     "type": "thanks_dev"
                 }
             ],
-            "time": "2025-01-23T17:04:15+00:00"
+            "time": "2025-03-18T05:04:51+00:00"
         }
     ],
     "aliases": [],
