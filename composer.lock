@@ -2285,6 +2285,7 @@
                     "type": "patreon"
                 }
             ],
+            "abandoned": "roots/wp-password-bcrypt",
             "time": "2021-10-31T01:18:58+00:00"
         },
         {
