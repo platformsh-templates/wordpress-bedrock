@@ -5659,12 +5659,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/wp-cli/wp-cli.git",
-                "reference": "a9fabc07adf274274ba6bcc0f0e081f1fab1220b"
+                "reference": "8717a02af98b58f2821622d46339fdd8473bd974"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/wp-cli/wp-cli/zipball/a9fabc07adf274274ba6bcc0f0e081f1fab1220b",
-                "reference": "a9fabc07adf274274ba6bcc0f0e081f1fab1220b",
+                "url": "https://api.github.com/repos/wp-cli/wp-cli/zipball/8717a02af98b58f2821622d46339fdd8473bd974",
+                "reference": "8717a02af98b58f2821622d46339fdd8473bd974",
                 "shasum": ""
             },
             "require": {
@@ -5721,7 +5721,7 @@
                 "issues": "https://github.com/wp-cli/wp-cli/issues",
                 "source": "https://github.com/wp-cli/wp-cli"
             },
-            "time": "2025-04-03T09:45:01+00:00"
+            "time": "2025-04-17T08:04:16+00:00"
         },
         {
             "name": "wp-cli/wp-cli-bundle",
@@ -5871,12 +5871,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/Roave/SecurityAdvisories.git",
-                "reference": "508576e5d70b881870043c666e3e4081b474d23f"
+                "reference": "6c54d20ae795b83ecf3f826311d7f488cd1ef005"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/Roave/SecurityAdvisories/zipball/508576e5d70b881870043c666e3e4081b474d23f",
-                "reference": "508576e5d70b881870043c666e3e4081b474d23f",
+                "url": "https://api.github.com/repos/Roave/SecurityAdvisories/zipball/6c54d20ae795b83ecf3f826311d7f488cd1ef005",
+                "reference": "6c54d20ae795b83ecf3f826311d7f488cd1ef005",
                 "shasum": ""
             },
             "conflict": {
@@ -6383,6 +6383,7 @@
                 "pear/archive_tar": "<1.4.14",
                 "pear/auth": "<1.2.4",
                 "pear/crypt_gpg": "<1.6.7",
+                "pear/http_request2": "<2.7",
                 "pear/pear": "<=1.10.1",
                 "pegasus/google-for-jobs": "<1.5.1|>=2,<2.1.1",
                 "personnummer/personnummer": "<3.0.2",
@@ -6789,7 +6790,7 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2025-04-14T20:05:54+00:00"
+            "time": "2025-04-17T15:05:22+00:00"
         },
         {
             "name": "squizlabs/php_codesniffer",
