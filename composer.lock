@@ -5871,12 +5871,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/Roave/SecurityAdvisories.git",
-                "reference": "38570c96303a807d5e530e00a1a238132ca5d84a"
+                "reference": "1205ebec5b1296c38f6d287a8780c1561380ec2f"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/Roave/SecurityAdvisories/zipball/38570c96303a807d5e530e00a1a238132ca5d84a",
-                "reference": "38570c96303a807d5e530e00a1a238132ca5d84a",
+                "url": "https://api.github.com/repos/Roave/SecurityAdvisories/zipball/1205ebec5b1296c38f6d287a8780c1561380ec2f",
+                "reference": "1205ebec5b1296c38f6d287a8780c1561380ec2f",
                 "shasum": ""
             },
             "conflict": {
@@ -6321,6 +6321,7 @@
                 "mustache/mustache": ">=2,<2.14.1",
                 "mwdelaney/wp-enable-svg": "<=0.2",
                 "namshi/jose": "<2.2",
+                "nasirkhan/laravel-starter": "<11.11",
                 "nategood/httpful": "<1",
                 "neoan3-apps/template": "<1.1.1",
                 "neorazorx/facturascripts": "<2022.04",
@@ -6790,7 +6791,7 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2025-04-22T16:06:15+00:00"
+            "time": "2025-04-22T23:05:21+00:00"
         },
         {
             "name": "squizlabs/php_codesniffer",
