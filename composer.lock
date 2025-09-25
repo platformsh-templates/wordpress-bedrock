@@ -5898,12 +5898,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/Roave/SecurityAdvisories.git",
-                "reference": "9e1435fff6e9befc5a298d00e34a0bce56becb7d"
+                "reference": "684ef27cdce62b6562f77a92dc76bdfb46542a2d"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/Roave/SecurityAdvisories/zipball/9e1435fff6e9befc5a298d00e34a0bce56becb7d",
-                "reference": "9e1435fff6e9befc5a298d00e34a0bce56becb7d",
+                "url": "https://api.github.com/repos/Roave/SecurityAdvisories/zipball/684ef27cdce62b6562f77a92dc76bdfb46542a2d",
+                "reference": "684ef27cdce62b6562f77a92dc76bdfb46542a2d",
                 "shasum": ""
             },
             "conflict": {
@@ -6394,6 +6394,7 @@
                 "notrinos/notrinos-erp": "<=0.7",
                 "noumo/easyii": "<=0.9",
                 "novaksolutions/infusionsoft-php-sdk": "<1",
+                "novosga/novosga": "<=2.2.9",
                 "nukeviet/nukeviet": "<4.5.02",
                 "nyholm/psr7": "<1.6.1",
                 "nystudio107/craft-seomatic": "<3.4.12",
@@ -6596,6 +6597,7 @@
                 "starcitizentools/citizen-skin": ">=1.9.4,<3.4",
                 "starcitizentools/short-description": ">=4,<4.0.1",
                 "starcitizentools/tabber-neue": ">=1.9.1,<2.7.2|>=3,<3.1.1",
+                "starcitizenwiki/embedvideo": "<=4",
                 "statamic/cms": "<=5.16",
                 "stormpath/sdk": "<9.9.99",
                 "studio-42/elfinder": "<=2.1.64",
@@ -6862,7 +6864,7 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2025-09-23T19:05:05+00:00"
+            "time": "2025-09-24T21:05:21+00:00"
         },
         {
             "name": "squizlabs/php_codesniffer",
