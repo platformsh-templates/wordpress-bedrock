@@ -5897,12 +5897,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/Roave/SecurityAdvisories.git",
-                "reference": "df1c0941a6e0af133af0de9b5ec9d98a5890d576"
+                "reference": "b6e429a7bb297ab3b78ea05021ccd3fe4568dd5e"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/Roave/SecurityAdvisories/zipball/df1c0941a6e0af133af0de9b5ec9d98a5890d576",
-                "reference": "df1c0941a6e0af133af0de9b5ec9d98a5890d576",
+                "url": "https://api.github.com/repos/Roave/SecurityAdvisories/zipball/b6e429a7bb297ab3b78ea05021ccd3fe4568dd5e",
+                "reference": "b6e429a7bb297ab3b78ea05021ccd3fe4568dd5e",
                 "shasum": ""
             },
             "conflict": {
@@ -6491,6 +6491,7 @@
                 "prestashop/gamification": "<2.3.2",
                 "prestashop/prestashop": "<8.2.3",
                 "prestashop/productcomments": "<5.0.2",
+                "prestashop/ps_checkout": "<4.4.1|>=5,<5.0.5",
                 "prestashop/ps_contactinfo": "<=3.3.2",
                 "prestashop/ps_emailsubscription": "<2.6.1",
                 "prestashop/ps_facetedsearch": "<3.4.1",
@@ -6868,7 +6869,7 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2025-10-16T19:04:40+00:00"
+            "time": "2025-10-16T20:06:12+00:00"
         },
         {
             "name": "squizlabs/php_codesniffer",
