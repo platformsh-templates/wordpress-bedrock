@@ -5897,12 +5897,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/Roave/SecurityAdvisories.git",
-                "reference": "b8a07f2b49070920a65c1e5089a21509d0358345"
+                "reference": "960ccb49b6f273fa566a23fd2e8968f81ad207dd"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/Roave/SecurityAdvisories/zipball/b8a07f2b49070920a65c1e5089a21509d0358345",
-                "reference": "b8a07f2b49070920a65c1e5089a21509d0358345",
+                "url": "https://api.github.com/repos/Roave/SecurityAdvisories/zipball/960ccb49b6f273fa566a23fd2e8968f81ad207dd",
+                "reference": "960ccb49b6f273fa566a23fd2e8968f81ad207dd",
                 "shasum": ""
             },
             "conflict": {
@@ -6540,8 +6540,8 @@
                 "setasign/fpdi": "<2.6.4",
                 "sfroemken/url_redirect": "<=1.2.1",
                 "sheng/yiicms": "<1.2.1",
-                "shopware/core": "<6.5.8.18-dev|>=6.6,<6.6.10.3-dev|>=6.7,<6.7.2.1-dev",
-                "shopware/platform": "<=6.6.10.4|>=6.7.0.0-RC1-dev,<6.7.0.0-RC2-dev",
+                "shopware/core": "<6.6.10.7-dev|>=6.7,<6.7.3.1-dev",
+                "shopware/platform": "<6.6.10.7-dev|>=6.7,<6.7.3.1-dev",
                 "shopware/production": "<=6.3.5.2",
                 "shopware/shopware": "<=5.7.17|>=6.7,<6.7.2.1-dev",
                 "shopware/storefront": "<=6.4.8.1|>=6.5.8,<6.5.8.7-dev",
@@ -6869,7 +6869,7 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2025-10-20T22:05:40+00:00"
+            "time": "2025-10-21T18:07:19+00:00"
         },
         {
             "name": "squizlabs/php_codesniffer",
