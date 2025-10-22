@@ -5897,12 +5897,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/Roave/SecurityAdvisories.git",
-                "reference": "960ccb49b6f273fa566a23fd2e8968f81ad207dd"
+                "reference": "9556ff86e44e97158e11fe5ba808f9ba92a7099e"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/Roave/SecurityAdvisories/zipball/960ccb49b6f273fa566a23fd2e8968f81ad207dd",
-                "reference": "960ccb49b6f273fa566a23fd2e8968f81ad207dd",
+                "url": "https://api.github.com/repos/Roave/SecurityAdvisories/zipball/9556ff86e44e97158e11fe5ba808f9ba92a7099e",
+                "reference": "9556ff86e44e97158e11fe5ba808f9ba92a7099e",
                 "shasum": ""
             },
             "conflict": {
@@ -6011,6 +6011,7 @@
                 "clickstorm/cs-seo": ">=6,<6.8|>=7,<7.5|>=8,<8.4|>=9,<9.3",
                 "co-stack/fal_sftp": "<0.2.6",
                 "cockpit-hq/cockpit": "<2.11.4",
+                "code16/sharp": "<9.7",
                 "codeception/codeception": "<3.1.3|>=4,<4.1.22",
                 "codeigniter/framework": "<3.1.10",
                 "codeigniter4/framework": "<4.6.2",
@@ -6497,7 +6498,7 @@
                 "prestashop/ps_facetedsearch": "<3.4.1",
                 "prestashop/ps_linklist": "<3.1",
                 "privatebin/privatebin": "<1.4|>=1.5,<1.7.4",
-                "processwire/processwire": "<=3.0.229",
+                "processwire/processwire": "<=3.0.246",
                 "propel/propel": ">=2.0.0.0-alpha1,<=2.0.0.0-alpha7",
                 "propel/propel1": ">=1,<=1.7.1",
                 "pterodactyl/panel": "<=1.11.10",
@@ -6869,7 +6870,7 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2025-10-21T18:07:19+00:00"
+            "time": "2025-10-21T23:05:28+00:00"
         },
         {
             "name": "squizlabs/php_codesniffer",
