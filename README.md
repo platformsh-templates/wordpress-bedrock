@@ -1,10 +1,11 @@
-# WordPress (Bedrock) for Platform.sh
+> [!WARNING]
+> **This repository is no longer maintained by our internal teams.**  
+> The template is provided *as is* and will not receive updates, bug fixes, or new features.  
+> You are welcome to contribute on it or fork the repository and modify it for your own use.
+> To deploy this template on [Upsun](https://www.upsun.com), you can use the [ConvSun](https://github.com/upsun/convsun)
+> tool to convert an existing `.platform.app.yaml` configuration file to the [Upsun Flex format](https://docs.upsun.com/create-apps/app-reference/single-runtime-image.html).
 
-<p align="center">
-<a href="https://console.platform.sh/projects/create-project?template=https://raw.githubusercontent.com/platformsh/template-builder/master/templates/wordpress-bedrock/.platform.template.yaml&utm_content=wordpress-bedrock&utm_source=github&utm_medium=button&utm_campaign=deploy_on_platform">
-    <img src="https://platform.sh/images/deploy/lg-blue.svg" alt="Deploy on Platform.sh" width="180px" />
-</a>
-</p>
+# WordPress (Bedrock) for Platform.sh
 
 This template builds WordPress on Platform.sh using the Bedrock boilerplate by Roots with Composer. Plugins and themes should be managed with Composer exclusively. The only modifications made to the standard Bedrock boilerplate have been providing database credentials and main site url parameters via environment variables. With this configuration, the database is automatically configured such that the installer will not ask you for database credentials. While Bedrock provides support to replicate this configuration in a `.env` file for local development, an example Lando configuration file is included as the recommendated method to do so.
 
