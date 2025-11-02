@@ -5678,16 +5678,16 @@
         },
         {
             "name": "wp-cli/wp-cli",
-            "version": "dev-main",
+            "version": "dev-copilot/load-global-config-from-etc",
             "source": {
                 "type": "git",
                 "url": "https://github.com/wp-cli/wp-cli.git",
-                "reference": "901157f28a507e6dd1f2b26de80b27eea57339de"
+                "reference": "9fb52b89ee983c64a91741b5c64ce778de0ed66a"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/wp-cli/wp-cli/zipball/901157f28a507e6dd1f2b26de80b27eea57339de",
-                "reference": "901157f28a507e6dd1f2b26de80b27eea57339de",
+                "url": "https://api.github.com/repos/wp-cli/wp-cli/zipball/9fb52b89ee983c64a91741b5c64ce778de0ed66a",
+                "reference": "9fb52b89ee983c64a91741b5c64ce778de0ed66a",
                 "shasum": ""
             },
             "require": {
@@ -5711,7 +5711,6 @@
                 "ext-readline": "Include for a better --prompt implementation",
                 "ext-zip": "Needed to support extraction of ZIP archives when doing downloads or updates"
             },
-            "default-branch": true,
             "bin": [
                 "bin/wp",
                 "bin/wp.bat"
@@ -5719,7 +5718,8 @@
             "type": "library",
             "extra": {
                 "branch-alias": {
-                    "dev-main": "2.13.x-dev"
+                    "dev-main": "2.13.x-dev",
+                    "dev-copilot/load-global-config-from-etc": "2.13.x-dev"
                 }
             },
             "autoload": {
@@ -5746,7 +5746,7 @@
                 "issues": "https://github.com/wp-cli/wp-cli/issues",
                 "source": "https://github.com/wp-cli/wp-cli"
             },
-            "time": "2025-10-23T14:44:57+00:00"
+            "time": "2025-11-02T17:33:14+00:00"
         },
         {
             "name": "wp-cli/wp-cli-bundle",
