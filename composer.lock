@@ -5682,12 +5682,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/wp-cli/wp-cli.git",
-                "reference": "901157f28a507e6dd1f2b26de80b27eea57339de"
+                "reference": "ee4fb67b12eb904527bde1c4a0a4d6538a14681a"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/wp-cli/wp-cli/zipball/901157f28a507e6dd1f2b26de80b27eea57339de",
-                "reference": "901157f28a507e6dd1f2b26de80b27eea57339de",
+                "url": "https://api.github.com/repos/wp-cli/wp-cli/zipball/ee4fb67b12eb904527bde1c4a0a4d6538a14681a",
+                "reference": "ee4fb67b12eb904527bde1c4a0a4d6538a14681a",
                 "shasum": ""
             },
             "require": {
@@ -5746,7 +5746,7 @@
                 "issues": "https://github.com/wp-cli/wp-cli/issues",
                 "source": "https://github.com/wp-cli/wp-cli"
             },
-            "time": "2025-10-23T14:44:57+00:00"
+            "time": "2025-11-04T11:07:49+00:00"
         },
         {
             "name": "wp-cli/wp-cli-bundle",
@@ -6884,16 +6884,16 @@
         },
         {
             "name": "squizlabs/php_codesniffer",
-            "version": "3.13.4",
+            "version": "3.13.5",
             "source": {
                 "type": "git",
                 "url": "https://github.com/PHPCSStandards/PHP_CodeSniffer.git",
-                "reference": "ad545ea9c1b7d270ce0fc9cbfb884161cd706119"
+                "reference": "0ca86845ce43291e8f5692c7356fccf3bcf02bf4"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/PHPCSStandards/PHP_CodeSniffer/zipball/ad545ea9c1b7d270ce0fc9cbfb884161cd706119",
-                "reference": "ad545ea9c1b7d270ce0fc9cbfb884161cd706119",
+                "url": "https://api.github.com/repos/PHPCSStandards/PHP_CodeSniffer/zipball/0ca86845ce43291e8f5692c7356fccf3bcf02bf4",
+                "reference": "0ca86845ce43291e8f5692c7356fccf3bcf02bf4",
                 "shasum": ""
             },
             "require": {
@@ -6910,11 +6910,6 @@
                 "bin/phpcs"
             ],
             "type": "library",
-            "extra": {
-                "branch-alias": {
-                    "dev-master": "3.x-dev"
-                }
-            },
             "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "BSD-3-Clause"
@@ -6964,7 +6959,7 @@
                     "type": "thanks_dev"
                 }
             ],
-            "time": "2025-09-05T05:47:09+00:00"
+            "time": "2025-11-04T16:30:35+00:00"
         }
     ],
     "aliases": [],
