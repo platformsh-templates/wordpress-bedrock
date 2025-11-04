@@ -5897,12 +5897,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/Roave/SecurityAdvisories.git",
-                "reference": "a9c2212e5dd9e6ad9aba0413e53484f49284e4b3"
+                "reference": "19966d2f97bbc444bb176432754e33256a7d45bf"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/Roave/SecurityAdvisories/zipball/a9c2212e5dd9e6ad9aba0413e53484f49284e4b3",
-                "reference": "a9c2212e5dd9e6ad9aba0413e53484f49284e4b3",
+                "url": "https://api.github.com/repos/Roave/SecurityAdvisories/zipball/19966d2f97bbc444bb176432754e33256a7d45bf",
+                "reference": "19966d2f97bbc444bb176432754e33256a7d45bf",
                 "shasum": ""
             },
             "conflict": {
@@ -6425,7 +6425,7 @@
                 "open-web-analytics/open-web-analytics": "<1.8.1",
                 "opencart/opencart": ">=0",
                 "openid/php-openid": "<2.3",
-                "openmage/magento-lts": "<20.12.3",
+                "openmage/magento-lts": "<20.16",
                 "opensolutions/vimbadmin": "<=3.0.15",
                 "opensource-workshop/connect-cms": "<1.8.7|>=2,<2.4.7",
                 "orchid/platform": ">=8,<14.43",
@@ -6880,7 +6880,7 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2025-11-03T18:07:28+00:00"
+            "time": "2025-11-03T21:05:38+00:00"
         },
         {
             "name": "squizlabs/php_codesniffer",
