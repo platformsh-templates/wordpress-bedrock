@@ -5984,12 +5984,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/Roave/SecurityAdvisories.git",
-                "reference": "3e3f82ed67bc5a5a3b880ad413e6c06c1c899322"
+                "reference": "f5a58d09ea64ab1d080876ee3abbd3b90dd022d6"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/Roave/SecurityAdvisories/zipball/3e3f82ed67bc5a5a3b880ad413e6c06c1c899322",
-                "reference": "3e3f82ed67bc5a5a3b880ad413e6c06c1c899322",
+                "url": "https://api.github.com/repos/Roave/SecurityAdvisories/zipball/f5a58d09ea64ab1d080876ee3abbd3b90dd022d6",
+                "reference": "f5a58d09ea64ab1d080876ee3abbd3b90dd022d6",
                 "shasum": ""
             },
             "conflict": {
@@ -6687,7 +6687,7 @@
                 "slim/slim": "<2.6",
                 "slub/slub-events": "<3.0.3",
                 "smarty/smarty": "<4.5.3|>=5,<5.1.1",
-                "snipe/snipe-it": "<8.1.18",
+                "snipe/snipe-it": "<=8.3.4",
                 "socalnick/scn-social-auth": "<1.15.2",
                 "socialiteproviders/steam": "<1.1",
                 "solspace/craft-freeform": ">=5,<5.10.16",
@@ -6972,7 +6972,7 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2025-11-20T19:05:16+00:00"
+            "time": "2025-11-20T22:05:30+00:00"
         },
         {
             "name": "squizlabs/php_codesniffer",
