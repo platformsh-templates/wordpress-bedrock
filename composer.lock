@@ -5765,12 +5765,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/wp-cli/wp-cli.git",
-                "reference": "87066409a26073f730f3de8316cb1f98195c46c6"
+                "reference": "944366dc0c3c116ed7dd7d136904a8a18b67294a"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/wp-cli/wp-cli/zipball/87066409a26073f730f3de8316cb1f98195c46c6",
-                "reference": "87066409a26073f730f3de8316cb1f98195c46c6",
+                "url": "https://api.github.com/repos/wp-cli/wp-cli/zipball/944366dc0c3c116ed7dd7d136904a8a18b67294a",
+                "reference": "944366dc0c3c116ed7dd7d136904a8a18b67294a",
                 "shasum": ""
             },
             "require": {
@@ -5828,7 +5828,7 @@
                 "issues": "https://github.com/wp-cli/wp-cli/issues",
                 "source": "https://github.com/wp-cli/wp-cli"
             },
-            "time": "2025-12-11T18:24:17+00:00"
+            "time": "2025-12-12T16:34:15+00:00"
         },
         {
             "name": "wp-cli/wp-cli-bundle",
@@ -5979,12 +5979,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/Roave/SecurityAdvisories.git",
-                "reference": "415fded4fc00cd3df267d36e384e3e7454b39c40"
+                "reference": "3590218a227633a3efd9c7c6aee158a13c693246"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/Roave/SecurityAdvisories/zipball/415fded4fc00cd3df267d36e384e3e7454b39c40",
-                "reference": "415fded4fc00cd3df267d36e384e3e7454b39c40",
+                "url": "https://api.github.com/repos/Roave/SecurityAdvisories/zipball/3590218a227633a3efd9c7c6aee158a13c693246",
+                "reference": "3590218a227633a3efd9c7c6aee158a13c693246",
                 "shasum": ""
             },
             "conflict": {
@@ -6255,6 +6255,7 @@
                 "floriangaerber/magnesium": "<0.3.1",
                 "fluidtypo3/vhs": "<5.1.1",
                 "fof/byobu": ">=0.3.0.0-beta2,<1.1.7",
+                "fof/pretty-mail": "<=1.1.2",
                 "fof/upload": "<1.2.3",
                 "foodcoopshop/foodcoopshop": ">=3.2,<3.6.1",
                 "fooman/tcpdf": "<6.2.22",
@@ -6973,7 +6974,7 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2025-12-11T17:09:09+00:00"
+            "time": "2025-12-12T17:05:55+00:00"
         },
         {
             "name": "squizlabs/php_codesniffer",
