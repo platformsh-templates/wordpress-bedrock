@@ -5765,12 +5765,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/wp-cli/wp-cli.git",
-                "reference": "944366dc0c3c116ed7dd7d136904a8a18b67294a"
+                "reference": "d56160ae75643ea191b895a0859fb3a2f7ba555e"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/wp-cli/wp-cli/zipball/944366dc0c3c116ed7dd7d136904a8a18b67294a",
-                "reference": "944366dc0c3c116ed7dd7d136904a8a18b67294a",
+                "url": "https://api.github.com/repos/wp-cli/wp-cli/zipball/d56160ae75643ea191b895a0859fb3a2f7ba555e",
+                "reference": "d56160ae75643ea191b895a0859fb3a2f7ba555e",
                 "shasum": ""
             },
             "require": {
@@ -5828,7 +5828,7 @@
                 "issues": "https://github.com/wp-cli/wp-cli/issues",
                 "source": "https://github.com/wp-cli/wp-cli"
             },
-            "time": "2025-12-12T16:34:15+00:00"
+            "time": "2025-12-12T21:15:08+00:00"
         },
         {
             "name": "wp-cli/wp-cli-bundle",
@@ -5979,12 +5979,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/Roave/SecurityAdvisories.git",
-                "reference": "3590218a227633a3efd9c7c6aee158a13c693246"
+                "reference": "1553067758ae7f3df13df7c7e232c62d928e1d23"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/Roave/SecurityAdvisories/zipball/3590218a227633a3efd9c7c6aee158a13c693246",
-                "reference": "3590218a227633a3efd9c7c6aee158a13c693246",
+                "url": "https://api.github.com/repos/Roave/SecurityAdvisories/zipball/1553067758ae7f3df13df7c7e232c62d928e1d23",
+                "reference": "1553067758ae7f3df13df7c7e232c62d928e1d23",
                 "shasum": ""
             },
             "conflict": {
@@ -6456,6 +6456,7 @@
                 "microsoft/microsoft-graph-core": "<2.0.2",
                 "microweber/microweber": "<=2.0.19",
                 "mikehaertl/php-shellcommand": "<1.6.1",
+                "mineadmin/mineadmin": "<=3.0.9",
                 "miniorange/miniorange-saml": "<1.4.3",
                 "mittwald/typo3_forum": "<1.2.1",
                 "mobiledetect/mobiledetectlib": "<2.8.32",
@@ -6974,7 +6975,7 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2025-12-12T17:05:55+00:00"
+            "time": "2025-12-12T23:06:01+00:00"
         },
         {
             "name": "squizlabs/php_codesniffer",
