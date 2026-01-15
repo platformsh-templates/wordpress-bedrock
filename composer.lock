@@ -5765,12 +5765,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/wp-cli/wp-cli.git",
-                "reference": "28c97a9b172805195d3bce56e486bcc1737e406b"
+                "reference": "234a4e17c8329ddb6ac2d21ac8d2980ab9e139a6"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/wp-cli/wp-cli/zipball/28c97a9b172805195d3bce56e486bcc1737e406b",
-                "reference": "28c97a9b172805195d3bce56e486bcc1737e406b",
+                "url": "https://api.github.com/repos/wp-cli/wp-cli/zipball/234a4e17c8329ddb6ac2d21ac8d2980ab9e139a6",
+                "reference": "234a4e17c8329ddb6ac2d21ac8d2980ab9e139a6",
                 "shasum": ""
             },
             "require": {
@@ -5828,7 +5828,7 @@
                 "issues": "https://github.com/wp-cli/wp-cli/issues",
                 "source": "https://github.com/wp-cli/wp-cli"
             },
-            "time": "2026-01-07T12:32:11+00:00"
+            "time": "2026-01-15T17:05:38+00:00"
         },
         {
             "name": "wp-cli/wp-cli-bundle",
@@ -5979,12 +5979,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/Roave/SecurityAdvisories.git",
-                "reference": "8db0a0103c58e46c235523631e155680d7e0a7c1"
+                "reference": "a460cdb169aa0b90cd965b39a8fba6addac817f6"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/Roave/SecurityAdvisories/zipball/8db0a0103c58e46c235523631e155680d7e0a7c1",
-                "reference": "8db0a0103c58e46c235523631e155680d7e0a7c1",
+                "url": "https://api.github.com/repos/Roave/SecurityAdvisories/zipball/a460cdb169aa0b90cd965b39a8fba6addac817f6",
+                "reference": "a460cdb169aa0b90cd965b39a8fba6addac817f6",
                 "shasum": ""
             },
             "conflict": {
@@ -6578,7 +6578,7 @@
                 "phpxmlrpc/extras": "<0.6.1",
                 "phpxmlrpc/phpxmlrpc": "<4.9.2",
                 "pi/pi": "<=2.5",
-                "pimcore/admin-ui-classic-bundle": "<1.7.6",
+                "pimcore/admin-ui-classic-bundle": "<=1.7.15|>=2.0.0.0-RC1-dev,<=2.2.2",
                 "pimcore/customer-management-framework-bundle": "<4.2.1",
                 "pimcore/data-hub": "<1.2.4",
                 "pimcore/data-importer": "<1.8.9|>=1.9,<1.9.3",
@@ -6586,6 +6586,7 @@
                 "pimcore/ecommerce-framework-bundle": "<1.0.10",
                 "pimcore/perspective-editor": "<1.5.1",
                 "pimcore/pimcore": "<=11.5.13|>=12.0.0.0-RC1-dev,<12.3.1",
+                "pimcore/web2print-tools-bundle": "<=5.2.1|>=6.0.0.0-RC1-dev,<=6.1",
                 "piwik/piwik": "<1.11",
                 "pixelfed/pixelfed": "<0.12.5",
                 "plotly/plotly.js": "<2.25.2",
@@ -6981,7 +6982,7 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2026-01-14T22:05:56+00:00"
+            "time": "2026-01-15T19:10:08+00:00"
         },
         {
             "name": "squizlabs/php_codesniffer",
