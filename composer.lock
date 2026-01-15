@@ -5979,12 +5979,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/Roave/SecurityAdvisories.git",
-                "reference": "ce025952d0d3d527f0426be73d2bfcd73d21dfc8"
+                "reference": "8db0a0103c58e46c235523631e155680d7e0a7c1"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/Roave/SecurityAdvisories/zipball/ce025952d0d3d527f0426be73d2bfcd73d21dfc8",
-                "reference": "ce025952d0d3d527f0426be73d2bfcd73d21dfc8",
+                "url": "https://api.github.com/repos/Roave/SecurityAdvisories/zipball/8db0a0103c58e46c235523631e155680d7e0a7c1",
+                "reference": "8db0a0103c58e46c235523631e155680d7e0a7c1",
                 "shasum": ""
             },
             "conflict": {
@@ -6005,6 +6005,7 @@
                 "akeneo/pim-community-dev": "<5.0.119|>=6,<6.0.53",
                 "alextselegidis/easyappointments": "<1.5.2.0-beta1",
                 "alexusmai/laravel-file-manager": "<=3.3.1",
+                "algolia/algoliasearch-magento-2": "<=3.16.1|>=3.17.0.0-beta1,<=3.17.1",
                 "alt-design/alt-redirect": "<1.6.4",
                 "altcha-org/altcha": "<1.3.1",
                 "alterphp/easyadmin-extension-bundle": ">=1.2,<1.2.11|>=1.3,<1.3.1",
@@ -6584,7 +6585,7 @@
                 "pimcore/demo": "<10.3",
                 "pimcore/ecommerce-framework-bundle": "<1.0.10",
                 "pimcore/perspective-editor": "<1.5.1",
-                "pimcore/pimcore": "<11.5.4",
+                "pimcore/pimcore": "<=11.5.13|>=12.0.0.0-RC1-dev,<12.3.1",
                 "piwik/piwik": "<1.11",
                 "pixelfed/pixelfed": "<0.12.5",
                 "plotly/plotly.js": "<2.25.2",
@@ -6980,7 +6981,7 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2026-01-14T17:10:06+00:00"
+            "time": "2026-01-14T22:05:56+00:00"
         },
         {
             "name": "squizlabs/php_codesniffer",
