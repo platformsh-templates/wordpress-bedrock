@@ -1964,7 +1964,7 @@
         },
         {
             "name": "roots/wordpress",
-            "version": "6.9",
+            "version": "6.9.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/roots/wordpress.git",
@@ -1995,7 +1995,7 @@
             ],
             "support": {
                 "issues": "https://github.com/roots/wordpress/issues",
-                "source": "https://github.com/roots/wordpress/tree/6.9"
+                "source": "https://github.com/roots/wordpress/tree/6.9.1"
             },
             "funding": [
                 {
@@ -2074,23 +2074,23 @@
         },
         {
             "name": "roots/wordpress-no-content",
-            "version": "6.9",
+            "version": "6.9.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/WordPress/WordPress.git",
-                "reference": "6.9"
+                "reference": "6.9.1"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/release/wordpress-6.9-no-content.zip",
-                "reference": "6.9",
-                "shasum": "2d8cb4b253b690e255afde1d451e87380e6a5cb5"
+                "url": "https://downloads.wordpress.org/release/wordpress-6.9.1-no-content.zip",
+                "reference": "6.9.1",
+                "shasum": "27121719e788b7c9e35cfcf8984ad8b42bd423d6"
             },
             "require": {
                 "php": ">= 7.2.24"
             },
             "provide": {
-                "wordpress/core-implementation": "6.9"
+                "wordpress/core-implementation": "6.9.1"
             },
             "suggest": {
                 "ext-curl": "Performs remote request operations.",
@@ -2141,7 +2141,7 @@
                     "type": "other"
                 }
             ],
-            "time": "2025-12-02T19:09:36+00:00"
+            "time": "2026-02-03T17:39:17+00:00"
         },
         {
             "name": "roots/wp-config",
@@ -6006,12 +6006,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/Roave/SecurityAdvisories.git",
-                "reference": "bfcd745d2868e7b8fbf2a32fc026f325b69e3180"
+                "reference": "57534122edd70a2b3dbb02b65f2091efc57e4ab7"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/Roave/SecurityAdvisories/zipball/bfcd745d2868e7b8fbf2a32fc026f325b69e3180",
-                "reference": "bfcd745d2868e7b8fbf2a32fc026f325b69e3180",
+                "url": "https://api.github.com/repos/Roave/SecurityAdvisories/zipball/57534122edd70a2b3dbb02b65f2091efc57e4ab7",
+                "reference": "57534122edd70a2b3dbb02b65f2091efc57e4ab7",
                 "shasum": ""
             },
             "conflict": {
@@ -6172,7 +6172,7 @@
                 "derhansen/sf_event_mgt": "<4.3.1|>=5,<5.1.1|>=7,<7.4",
                 "desperado/xml-bundle": "<=0.1.7",
                 "dev-lancer/minecraft-motd-parser": "<=1.0.5",
-                "devcode-it/openstamanager": "<=2.9.4",
+                "devcode-it/openstamanager": "<=2.9.8",
                 "devgroup/dotplant": "<2020.09.14-dev",
                 "digimix/wp-svg-upload": "<=1",
                 "directmailteam/direct-mail": "<6.0.3|>=7,<7.0.3|>=8,<9.5.2",
@@ -7017,7 +7017,7 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2026-02-03T00:30:10+00:00"
+            "time": "2026-02-03T19:20:38+00:00"
         },
         {
             "name": "squizlabs/php_codesniffer",
