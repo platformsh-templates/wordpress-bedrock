@@ -6006,12 +6006,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/Roave/SecurityAdvisories.git",
-                "reference": "7ea2d110787f6807213e27a1255c6b858ad99d89"
+                "reference": "c9bc175c224c05354a704903e6f38c31776d40e3"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/Roave/SecurityAdvisories/zipball/7ea2d110787f6807213e27a1255c6b858ad99d89",
-                "reference": "7ea2d110787f6807213e27a1255c6b858ad99d89",
+                "url": "https://api.github.com/repos/Roave/SecurityAdvisories/zipball/c9bc175c224c05354a704903e6f38c31776d40e3",
+                "reference": "c9bc175c224c05354a704903e6f38c31776d40e3",
                 "shasum": ""
             },
             "conflict": {
@@ -6042,6 +6042,7 @@
                 "amphp/artax": "<1.0.6|>=2,<2.0.6",
                 "amphp/http": "<=1.7.2|>=2,<=2.1",
                 "amphp/http-client": ">=4,<4.4",
+                "amphp/http-server": ">=2.0.0.0-RC1-dev,<2.1.10|>=3.0.0.0-beta1,<3.4.4",
                 "anchorcms/anchor-cms": "<=0.12.7",
                 "andreapollastri/cipi": "<=3.1.15",
                 "andrewhaine/silverstripe-form-capture": ">=0.2,<=0.2.3|>=1,<1.0.2|>=2,<2.2.5",
@@ -7017,7 +7018,7 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2026-02-05T22:08:29+00:00"
+            "time": "2026-02-09T09:24:23+00:00"
         },
         {
             "name": "squizlabs/php_codesniffer",
