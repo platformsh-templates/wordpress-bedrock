@@ -5780,12 +5780,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/wp-cli/wp-cli.git",
-                "reference": "a8fba6e5d8ce9fca3150cdd4306b9a30a6ee18d0"
+                "reference": "bedb3a7aaca2c25ba7916a76217072c86cf57d6b"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/wp-cli/wp-cli/zipball/a8fba6e5d8ce9fca3150cdd4306b9a30a6ee18d0",
-                "reference": "a8fba6e5d8ce9fca3150cdd4306b9a30a6ee18d0",
+                "url": "https://api.github.com/repos/wp-cli/wp-cli/zipball/bedb3a7aaca2c25ba7916a76217072c86cf57d6b",
+                "reference": "bedb3a7aaca2c25ba7916a76217072c86cf57d6b",
                 "shasum": ""
             },
             "require": {
@@ -5856,7 +5856,7 @@
                 "issues": "https://github.com/wp-cli/wp-cli/issues",
                 "source": "https://github.com/wp-cli/wp-cli"
             },
-            "time": "2026-02-07T10:21:45+00:00"
+            "time": "2026-02-09T21:54:36+00:00"
         },
         {
             "name": "wp-cli/wp-cli-bundle",
@@ -6006,12 +6006,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/Roave/SecurityAdvisories.git",
-                "reference": "c9bc175c224c05354a704903e6f38c31776d40e3"
+                "reference": "0c751a6ae38247a99675c8210d6a9d570314c87f"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/Roave/SecurityAdvisories/zipball/c9bc175c224c05354a704903e6f38c31776d40e3",
-                "reference": "c9bc175c224c05354a704903e6f38c31776d40e3",
+                "url": "https://api.github.com/repos/Roave/SecurityAdvisories/zipball/0c751a6ae38247a99675c8210d6a9d570314c87f",
+                "reference": "0c751a6ae38247a99675c8210d6a9d570314c87f",
                 "shasum": ""
             },
             "conflict": {
@@ -6153,9 +6153,10 @@
                 "cosenary/instagram": "<=2.3",
                 "couleurcitron/tarteaucitron-wp": "<0.3",
                 "cpsit/typo3-mailqueue": "<0.4.3|>=0.5,<0.5.1",
-                "craftcms/cms": "<=4.16.16|>=5,<=5.8.20",
+                "craftcms/cms": "<4.17.0.0-beta1|>=5,<5.9.0.0-beta1",
                 "craftcms/commerce": ">=4.0.0.0-RC1-dev,<=4.10|>=5,<=5.5.1",
                 "craftcms/composer": ">=4.0.0.0-RC1-dev,<=4.10|>=5.0.0.0-RC1-dev,<=5.5.1",
+                "craftcms/craft": ">=3.5,<=4.16.17|>=5.0.0.0-RC1-dev,<=5.8.21",
                 "croogo/croogo": "<=4.0.7",
                 "cuyz/valinor": "<0.12",
                 "czim/file-handling": "<1.5|>=2,<2.3",
@@ -6308,6 +6309,7 @@
                 "friendsoftypo3/mediace": ">=7.6.2,<7.6.5",
                 "friendsoftypo3/openid": ">=4.5,<4.5.31|>=4.7,<4.7.16|>=6,<6.0.11|>=6.1,<6.1.6",
                 "froala/wysiwyg-editor": "<=4.3",
+                "frosh/adminer-platform": "<2.2.1",
                 "froxlor/froxlor": "<=2.2.5",
                 "frozennode/administrator": "<=5.0.12",
                 "fuel/core": "<1.8.1",
@@ -6888,7 +6890,7 @@
                 "vertexvaar/falsftp": "<0.2.6",
                 "villagedefrance/opencart-overclocked": "<=1.11.1",
                 "vova07/yii2-fileapi-widget": "<0.1.9",
-                "vrana/adminer": "<=4.8.1",
+                "vrana/adminer": "<5.4.2",
                 "vufind/vufind": ">=2,<9.1.1",
                 "waldhacker/hcaptcha": "<2.1.2",
                 "wallabag/tcpdf": "<6.2.22",
@@ -7018,7 +7020,7 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2026-02-09T09:24:23+00:00"
+            "time": "2026-02-10T00:36:12+00:00"
         },
         {
             "name": "squizlabs/php_codesniffer",
