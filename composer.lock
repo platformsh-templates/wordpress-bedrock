@@ -5780,12 +5780,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/wp-cli/wp-cli.git",
-                "reference": "dc880193b6f20673fae82acf07ffcb4ce32465a9"
+                "reference": "ac5cb56bdf6b99509455e0160452c478bc4fc1be"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/wp-cli/wp-cli/zipball/dc880193b6f20673fae82acf07ffcb4ce32465a9",
-                "reference": "dc880193b6f20673fae82acf07ffcb4ce32465a9",
+                "url": "https://api.github.com/repos/wp-cli/wp-cli/zipball/ac5cb56bdf6b99509455e0160452c478bc4fc1be",
+                "reference": "ac5cb56bdf6b99509455e0160452c478bc4fc1be",
                 "shasum": ""
             },
             "require": {
@@ -5856,7 +5856,7 @@
                 "issues": "https://github.com/wp-cli/wp-cli/issues",
                 "source": "https://github.com/wp-cli/wp-cli"
             },
-            "time": "2026-02-23T09:56:13+00:00"
+            "time": "2026-02-25T23:28:24+00:00"
         },
         {
             "name": "wp-cli/wp-cli-bundle",
@@ -6006,12 +6006,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/Roave/SecurityAdvisories.git",
-                "reference": "d36b97648ff05fb6a3bef725a3399db1696160c6"
+                "reference": "67b44a783410e6d9912db53af50c8ddf048c9845"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/Roave/SecurityAdvisories/zipball/d36b97648ff05fb6a3bef725a3399db1696160c6",
-                "reference": "d36b97648ff05fb6a3bef725a3399db1696160c6",
+                "url": "https://api.github.com/repos/Roave/SecurityAdvisories/zipball/67b44a783410e6d9912db53af50c8ddf048c9845",
+                "reference": "67b44a783410e6d9912db53af50c8ddf048c9845",
                 "shasum": ""
             },
             "conflict": {
@@ -6474,7 +6474,7 @@
                 "marshmallow/nova-tiptap": "<5.7",
                 "matomo/matomo": "<1.11",
                 "matyhtf/framework": "<3.0.6",
-                "mautic/core": "<5.2.9|>=6,<6.0.7",
+                "mautic/core": "<5.2.10|>=6,<6.0.8|>=7.0.0.0-alpha,<7.0.1",
                 "mautic/core-lib": ">=1.0.0.0-beta,<4.4.13|>=5.0.0.0-alpha,<5.1.1",
                 "mautic/grapes-js-builder-bundle": ">=4,<4.4.18|>=5,<5.2.9|>=6,<6.0.7",
                 "maximebf/debugbar": "<1.19",
@@ -7025,7 +7025,7 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2026-02-25T19:24:51+00:00"
+            "time": "2026-02-25T20:13:14+00:00"
         },
         {
             "name": "squizlabs/php_codesniffer",
