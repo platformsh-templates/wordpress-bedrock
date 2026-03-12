@@ -5117,16 +5117,16 @@
         },
         {
             "name": "wp-cli/mustangostang-spyc",
-            "version": "0.6.4",
+            "version": "0.6.6",
             "source": {
                 "type": "git",
                 "url": "https://github.com/wp-cli/spyc.git",
-                "reference": "752b7bf37989214bf4b3344cb8bc4c581f820a5b"
+                "reference": "30f25baaaba939caaff1f4b8c7ed998632f59fe2"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/wp-cli/spyc/zipball/752b7bf37989214bf4b3344cb8bc4c581f820a5b",
-                "reference": "752b7bf37989214bf4b3344cb8bc4c581f820a5b",
+                "url": "https://api.github.com/repos/wp-cli/spyc/zipball/30f25baaaba939caaff1f4b8c7ed998632f59fe2",
+                "reference": "30f25baaaba939caaff1f4b8c7ed998632f59fe2",
                 "shasum": ""
             },
             "require": {
@@ -5162,9 +5162,9 @@
             "description": "A simple YAML loader/dumper class for PHP (WP-CLI fork)",
             "homepage": "https://github.com/mustangostang/spyc/",
             "support": {
-                "source": "https://github.com/wp-cli/spyc/tree/0.6.4"
+                "source": "https://github.com/wp-cli/spyc/tree/0.6.6"
             },
-            "time": "2026-03-10T17:15:34+00:00"
+            "time": "2026-03-12T12:30:41+00:00"
         },
         {
             "name": "wp-cli/package-command",
@@ -5796,12 +5796,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/wp-cli/wp-cli.git",
-                "reference": "f682f7cc5464245195bda9eb1e227b34168cecab"
+                "reference": "c2e39ec3ffd86a757cda80df6650a77dd176332b"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/wp-cli/wp-cli/zipball/f682f7cc5464245195bda9eb1e227b34168cecab",
-                "reference": "f682f7cc5464245195bda9eb1e227b34168cecab",
+                "url": "https://api.github.com/repos/wp-cli/wp-cli/zipball/c2e39ec3ffd86a757cda80df6650a77dd176332b",
+                "reference": "c2e39ec3ffd86a757cda80df6650a77dd176332b",
                 "shasum": ""
             },
             "require": {
@@ -5872,7 +5872,7 @@
                 "issues": "https://github.com/wp-cli/wp-cli/issues",
                 "source": "https://github.com/wp-cli/wp-cli"
             },
-            "time": "2026-03-11T21:53:55+00:00"
+            "time": "2026-03-12T15:10:45+00:00"
         },
         {
             "name": "wp-cli/wp-cli-bundle",
@@ -6022,12 +6022,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/Roave/SecurityAdvisories.git",
-                "reference": "8a08058dd09fdd6cc42f420f4cdbf0cac027c82b"
+                "reference": "ed005b7ebb25c82bb29af88d634357073f3b7a33"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/Roave/SecurityAdvisories/zipball/8a08058dd09fdd6cc42f420f4cdbf0cac027c82b",
-                "reference": "8a08058dd09fdd6cc42f420f4cdbf0cac027c82b",
+                "url": "https://api.github.com/repos/Roave/SecurityAdvisories/zipball/ed005b7ebb25c82bb29af88d634357073f3b7a33",
+                "reference": "ed005b7ebb25c82bb29af88d634357073f3b7a33",
                 "shasum": ""
             },
             "conflict": {
@@ -6932,7 +6932,7 @@
                 "wikibase/wikibase": "<=1.39.3",
                 "wikimedia/parsoid": "<0.12.2",
                 "willdurand/js-translation-bundle": "<2.1.1",
-                "winter/wn-backend-module": "<1.2.4",
+                "winter/wn-backend-module": "<1.2.12",
                 "winter/wn-cms-module": "<=1.2.9",
                 "winter/wn-dusk-plugin": "<2.1",
                 "winter/wn-system-module": "<1.2.4",
@@ -7044,7 +7044,7 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2026-03-11T22:08:36+00:00"
+            "time": "2026-03-12T14:21:15+00:00"
         },
         {
             "name": "squizlabs/php_codesniffer",
