@@ -6032,12 +6032,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/Roave/SecurityAdvisories.git",
-                "reference": "724f6d14243f05d6bc3408ed08a8e55aec58a3ba"
+                "reference": "1fefaf7d2b314c21903bef8f4fab046539e4e654"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/Roave/SecurityAdvisories/zipball/724f6d14243f05d6bc3408ed08a8e55aec58a3ba",
-                "reference": "724f6d14243f05d6bc3408ed08a8e55aec58a3ba",
+                "url": "https://api.github.com/repos/Roave/SecurityAdvisories/zipball/1fefaf7d2b314c21903bef8f4fab046539e4e654",
+                "reference": "1fefaf7d2b314c21903bef8f4fab046539e4e654",
                 "shasum": ""
             },
             "conflict": {
@@ -6310,7 +6310,7 @@
                 "filament/actions": ">=3.2,<3.2.123",
                 "filament/filament": ">=4,<4.3.1",
                 "filament/infolists": ">=3,<3.2.115",
-                "filament/tables": ">=3,<3.2.115",
+                "filament/tables": ">=3,<3.2.115|>=4,<4.8.5|>=5,<5.3.5",
                 "filegator/filegator": "<7.8",
                 "filp/whoops": "<2.1.13",
                 "fineuploader/php-traditional-server": "<=1.2.2",
@@ -6442,6 +6442,7 @@
                 "jweiland/events2": "<8.3.8|>=9,<9.0.6",
                 "jweiland/kk-downloader": "<1.2.2",
                 "kazist/phpwhois": "<=4.2.6",
+                "kelvinmo/simplejwt": "<=1.1",
                 "kelvinmo/simplexrd": "<3.1.1",
                 "kevinpapst/kimai2": "<1.16.7",
                 "khodakhah/nodcms": "<=3",
@@ -6788,7 +6789,7 @@
                 "starcitizentools/short-description": ">=4,<4.0.1",
                 "starcitizentools/tabber-neue": ">=1.9.1,<2.7.2|>=3,<3.1.1",
                 "starcitizenwiki/embedvideo": "<=4",
-                "statamic/cms": "<5.73.11|>=6,<6.6.2",
+                "statamic/cms": "<5.73.14|>=6,<6.7",
                 "stormpath/sdk": "<9.9.99",
                 "studio-42/elfinder": "<=2.1.64",
                 "studiomitte/friendlycaptcha": "<0.1.4",
@@ -7061,7 +7062,7 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2026-03-18T16:25:59+00:00"
+            "time": "2026-03-18T21:14:35+00:00"
         },
         {
             "name": "squizlabs/php_codesniffer",
