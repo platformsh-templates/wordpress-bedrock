@@ -5856,12 +5856,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/wp-cli/wp-cli.git",
-                "reference": "c5e537fe3ce9907f3397c43e05957090cdce00b4"
+                "reference": "67985d27f9ff23dc28dc97946973872c9f205d08"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/wp-cli/wp-cli/zipball/c5e537fe3ce9907f3397c43e05957090cdce00b4",
-                "reference": "c5e537fe3ce9907f3397c43e05957090cdce00b4",
+                "url": "https://api.github.com/repos/wp-cli/wp-cli/zipball/67985d27f9ff23dc28dc97946973872c9f205d08",
+                "reference": "67985d27f9ff23dc28dc97946973872c9f205d08",
                 "shasum": ""
             },
             "require": {
@@ -5932,7 +5932,7 @@
                 "issues": "https://github.com/wp-cli/wp-cli/issues",
                 "source": "https://github.com/wp-cli/wp-cli"
             },
-            "time": "2026-03-17T17:47:15+00:00"
+            "time": "2026-03-20T15:54:21+00:00"
         },
         {
             "name": "wp-cli/wp-cli-bundle",
