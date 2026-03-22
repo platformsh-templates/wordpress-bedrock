@@ -4034,16 +4034,16 @@
         },
         {
             "name": "wp-cli/core-command",
-            "version": "v2.1.25",
+            "version": "v2.1.26",
             "source": {
                 "type": "git",
                 "url": "https://github.com/wp-cli/core-command.git",
-                "reference": "50719f2c4ff3b74b27aaaf4fb6cc0055fa191738"
+                "reference": "b62ae813b048ac1d1a0810250bfa5ed3bf224165"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/wp-cli/core-command/zipball/50719f2c4ff3b74b27aaaf4fb6cc0055fa191738",
-                "reference": "50719f2c4ff3b74b27aaaf4fb6cc0055fa191738",
+                "url": "https://api.github.com/repos/wp-cli/core-command/zipball/b62ae813b048ac1d1a0810250bfa5ed3bf224165",
+                "reference": "b62ae813b048ac1d1a0810250bfa5ed3bf224165",
                 "shasum": ""
             },
             "require": {
@@ -4100,22 +4100,22 @@
             "homepage": "https://github.com/wp-cli/core-command",
             "support": {
                 "issues": "https://github.com/wp-cli/core-command/issues",
-                "source": "https://github.com/wp-cli/core-command/tree/v2.1.25"
+                "source": "https://github.com/wp-cli/core-command/tree/v2.1.26"
             },
-            "time": "2026-03-19T11:38:10+00:00"
+            "time": "2026-03-21T11:23:17+00:00"
         },
         {
             "name": "wp-cli/cron-command",
-            "version": "v2.3.5",
+            "version": "v2.3.6",
             "source": {
                 "type": "git",
                 "url": "https://github.com/wp-cli/cron-command.git",
-                "reference": "51de942aa20374e17068c126ac01c4947755c7d0"
+                "reference": "a74e533242b2a45a50da8aa336a1202832f8a5c5"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/wp-cli/cron-command/zipball/51de942aa20374e17068c126ac01c4947755c7d0",
-                "reference": "51de942aa20374e17068c126ac01c4947755c7d0",
+                "url": "https://api.github.com/repos/wp-cli/cron-command/zipball/a74e533242b2a45a50da8aa336a1202832f8a5c5",
+                "reference": "a74e533242b2a45a50da8aa336a1202832f8a5c5",
                 "shasum": ""
             },
             "require": {
@@ -4169,9 +4169,9 @@
             "homepage": "https://github.com/wp-cli/cron-command",
             "support": {
                 "issues": "https://github.com/wp-cli/cron-command/issues",
-                "source": "https://github.com/wp-cli/cron-command/tree/v2.3.5"
+                "source": "https://github.com/wp-cli/cron-command/tree/v2.3.6"
             },
-            "time": "2026-03-19T10:22:01+00:00"
+            "time": "2026-03-21T11:13:10+00:00"
         },
         {
             "name": "wp-cli/db-command",
@@ -4316,16 +4316,16 @@
         },
         {
             "name": "wp-cli/entity-command",
-            "version": "v2.8.6",
+            "version": "v2.8.7",
             "source": {
                 "type": "git",
                 "url": "https://github.com/wp-cli/entity-command.git",
-                "reference": "a8f5147f494cf1afea7a343ee229225643e07fe7"
+                "reference": "0dea7320703d64f78a1b83541ad02124351c9c91"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/wp-cli/entity-command/zipball/a8f5147f494cf1afea7a343ee229225643e07fe7",
-                "reference": "a8f5147f494cf1afea7a343ee229225643e07fe7",
+                "url": "https://api.github.com/repos/wp-cli/entity-command/zipball/0dea7320703d64f78a1b83541ad02124351c9c91",
+                "reference": "0dea7320703d64f78a1b83541ad02124351c9c91",
                 "shasum": ""
             },
             "require": {
@@ -4597,9 +4597,9 @@
             "homepage": "https://github.com/wp-cli/entity-command",
             "support": {
                 "issues": "https://github.com/wp-cli/entity-command/issues",
-                "source": "https://github.com/wp-cli/entity-command/tree/v2.8.6"
+                "source": "https://github.com/wp-cli/entity-command/tree/v2.8.7"
             },
-            "time": "2026-03-19T13:01:55+00:00"
+            "time": "2026-03-21T14:16:41+00:00"
         },
         {
             "name": "wp-cli/eval-command",
@@ -4905,20 +4905,20 @@
         },
         {
             "name": "wp-cli/import-command",
-            "version": "v2.0.16",
+            "version": "v2.0.17",
             "source": {
                 "type": "git",
                 "url": "https://github.com/wp-cli/import-command.git",
-                "reference": "64033264b9f4b9c9a32d14e33b365a58de6f3bf6"
+                "reference": "fd71e9f326582e25e8d22a4b39d2e7734a66fe45"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/wp-cli/import-command/zipball/64033264b9f4b9c9a32d14e33b365a58de6f3bf6",
-                "reference": "64033264b9f4b9c9a32d14e33b365a58de6f3bf6",
+                "url": "https://api.github.com/repos/wp-cli/import-command/zipball/fd71e9f326582e25e8d22a4b39d2e7734a66fe45",
+                "reference": "fd71e9f326582e25e8d22a4b39d2e7734a66fe45",
                 "shasum": ""
             },
             "require": {
-                "wp-cli/wp-cli": "^2.12"
+                "wp-cli/wp-cli": "^2.13"
             },
             "require-dev": {
                 "wordpress/wordpress-importer": "^0.9",
@@ -4960,9 +4960,9 @@
             "homepage": "https://github.com/wp-cli/import-command",
             "support": {
                 "issues": "https://github.com/wp-cli/import-command/issues",
-                "source": "https://github.com/wp-cli/import-command/tree/v2.0.16"
+                "source": "https://github.com/wp-cli/import-command/tree/v2.0.17"
             },
-            "time": "2026-03-16T15:17:43+00:00"
+            "time": "2026-03-21T11:16:40+00:00"
         },
         {
             "name": "wp-cli/language-command",
