@@ -6082,12 +6082,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/Roave/SecurityAdvisories.git",
-                "reference": "db78064456eb735e368677828095fb7fe5aeda6f"
+                "reference": "8d1b0376fbe350fdd2789c170758e37b937e58c7"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/Roave/SecurityAdvisories/zipball/db78064456eb735e368677828095fb7fe5aeda6f",
-                "reference": "db78064456eb735e368677828095fb7fe5aeda6f",
+                "url": "https://api.github.com/repos/Roave/SecurityAdvisories/zipball/8d1b0376fbe350fdd2789c170758e37b937e58c7",
+                "reference": "8d1b0376fbe350fdd2789c170758e37b937e58c7",
                 "shasum": ""
             },
             "conflict": {
@@ -6202,7 +6202,7 @@
                 "cesnet/simplesamlphp-module-proxystatistics": "<3.1",
                 "chriskacerguis/codeigniter-restserver": "<=2.7.1",
                 "chrome-php/chrome": "<1.14",
-                "ci4-cms-erp/ci4ms": "<=0.28.6",
+                "ci4-cms-erp/ci4ms": "<=0.31.1",
                 "civicrm/civicrm-core": ">=4.2,<4.2.9|>=4.3,<4.3.3",
                 "ckeditor/ckeditor": "<4.25",
                 "clickstorm/cs-seo": ">=6,<6.8|>=7,<7.5|>=8,<8.4|>=9,<9.3",
@@ -7124,7 +7124,7 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2026-04-04T07:24:55+00:00"
+            "time": "2026-04-06T18:22:06+00:00"
         },
         {
             "name": "squizlabs/php_codesniffer",
