@@ -5856,12 +5856,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/wp-cli/wp-cli.git",
-                "reference": "2286543a522dce7dab16dbf405decdfab3aae9aa"
+                "reference": "05bf6138960dfefe20d02adf148e3ed91c856bb7"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/wp-cli/wp-cli/zipball/2286543a522dce7dab16dbf405decdfab3aae9aa",
-                "reference": "2286543a522dce7dab16dbf405decdfab3aae9aa",
+                "url": "https://api.github.com/repos/wp-cli/wp-cli/zipball/05bf6138960dfefe20d02adf148e3ed91c856bb7",
+                "reference": "05bf6138960dfefe20d02adf148e3ed91c856bb7",
                 "shasum": ""
             },
             "require": {
@@ -5932,7 +5932,7 @@
                 "issues": "https://github.com/wp-cli/wp-cli/issues",
                 "source": "https://github.com/wp-cli/wp-cli"
             },
-            "time": "2026-04-01T08:04:57+00:00"
+            "time": "2026-04-02T07:48:16+00:00"
         },
         {
             "name": "wp-cli/wp-cli-bundle",
@@ -6082,12 +6082,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/Roave/SecurityAdvisories.git",
-                "reference": "8d1b0376fbe350fdd2789c170758e37b937e58c7"
+                "reference": "7c570124dcf5c6834d78348d6817f32cd6b537d7"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/Roave/SecurityAdvisories/zipball/8d1b0376fbe350fdd2789c170758e37b937e58c7",
-                "reference": "8d1b0376fbe350fdd2789c170758e37b937e58c7",
+                "url": "https://api.github.com/repos/Roave/SecurityAdvisories/zipball/7c570124dcf5c6834d78348d6817f32cd6b537d7",
+                "reference": "7c570124dcf5c6834d78348d6817f32cd6b537d7",
                 "shasum": ""
             },
             "conflict": {
@@ -6722,7 +6722,7 @@
                 "pixelfed/pixelfed": "<0.12.5",
                 "plotly/plotly.js": "<2.25.2",
                 "pocketmine/bedrock-protocol": "<8.0.2",
-                "pocketmine/pocketmine-mp": "<5.32.1",
+                "pocketmine/pocketmine-mp": "<5.41.1",
                 "pocketmine/raklib": ">=0.14,<0.14.6|>=0.15,<0.15.1",
                 "pressbooks/pressbooks": "<5.18",
                 "prestashop/autoupgrade": ">=4,<4.10.1",
@@ -7124,7 +7124,7 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2026-04-06T18:22:06+00:00"
+            "time": "2026-04-06T23:13:58+00:00"
         },
         {
             "name": "squizlabs/php_codesniffer",
