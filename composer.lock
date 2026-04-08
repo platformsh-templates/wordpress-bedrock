@@ -5856,12 +5856,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/wp-cli/wp-cli.git",
-                "reference": "05bf6138960dfefe20d02adf148e3ed91c856bb7"
+                "reference": "46c31b0168158d9cc9e1fc514375247d94001ec7"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/wp-cli/wp-cli/zipball/05bf6138960dfefe20d02adf148e3ed91c856bb7",
-                "reference": "05bf6138960dfefe20d02adf148e3ed91c856bb7",
+                "url": "https://api.github.com/repos/wp-cli/wp-cli/zipball/46c31b0168158d9cc9e1fc514375247d94001ec7",
+                "reference": "46c31b0168158d9cc9e1fc514375247d94001ec7",
                 "shasum": ""
             },
             "require": {
@@ -5932,7 +5932,7 @@
                 "issues": "https://github.com/wp-cli/wp-cli/issues",
                 "source": "https://github.com/wp-cli/wp-cli"
             },
-            "time": "2026-04-02T07:48:16+00:00"
+            "time": "2026-04-08T19:10:07+00:00"
         },
         {
             "name": "wp-cli/wp-cli-bundle",
@@ -6082,12 +6082,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/Roave/SecurityAdvisories.git",
-                "reference": "7c570124dcf5c6834d78348d6817f32cd6b537d7"
+                "reference": "86a37d1fdf8afe7dfcf66236a86f92e53e665c1f"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/Roave/SecurityAdvisories/zipball/7c570124dcf5c6834d78348d6817f32cd6b537d7",
-                "reference": "7c570124dcf5c6834d78348d6817f32cd6b537d7",
+                "url": "https://api.github.com/repos/Roave/SecurityAdvisories/zipball/86a37d1fdf8afe7dfcf66236a86f92e53e665c1f",
+                "reference": "86a37d1fdf8afe7dfcf66236a86f92e53e665c1f",
                 "shasum": ""
             },
             "conflict": {
@@ -6202,7 +6202,7 @@
                 "cesnet/simplesamlphp-module-proxystatistics": "<3.1",
                 "chriskacerguis/codeigniter-restserver": "<=2.7.1",
                 "chrome-php/chrome": "<1.14",
-                "ci4-cms-erp/ci4ms": "<=0.31.1",
+                "ci4-cms-erp/ci4ms": "<=0.31.3",
                 "civicrm/civicrm-core": ">=4.2,<4.2.9|>=4.3,<4.3.3",
                 "ckeditor/ckeditor": "<4.25",
                 "clickstorm/cs-seo": ">=6,<6.8|>=7,<7.5|>=8,<8.4|>=9,<9.3",
@@ -7124,7 +7124,7 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2026-04-06T23:13:58+00:00"
+            "time": "2026-04-08T19:32:10+00:00"
         },
         {
             "name": "squizlabs/php_codesniffer",
