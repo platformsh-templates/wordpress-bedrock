@@ -6078,12 +6078,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/Roave/SecurityAdvisories.git",
-                "reference": "c5e319c36bb8e95f3662f05e46f16e89c44da480"
+                "reference": "9599dbb7bb3f3c40ac0f3ac902750e1a1f70af87"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/Roave/SecurityAdvisories/zipball/c5e319c36bb8e95f3662f05e46f16e89c44da480",
-                "reference": "c5e319c36bb8e95f3662f05e46f16e89c44da480",
+                "url": "https://api.github.com/repos/Roave/SecurityAdvisories/zipball/9599dbb7bb3f3c40ac0f3ac902750e1a1f70af87",
+                "reference": "9599dbb7bb3f3c40ac0f3ac902750e1a1f70af87",
                 "shasum": ""
             },
             "conflict": {
@@ -6492,6 +6492,7 @@
                 "juzaweb/cms": "<=3.4.2",
                 "jweiland/events2": "<8.3.8|>=9,<9.0.6",
                 "jweiland/kk-downloader": "<1.2.2",
+                "kantorge/yaffa": "<=2",
                 "kazist/phpwhois": "<=4.2.6",
                 "kelvinmo/simplejwt": "<=1.1",
                 "kelvinmo/simplexrd": "<3.1.1",
@@ -7120,7 +7121,7 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2026-04-08T23:16:29+00:00"
+            "time": "2026-04-10T14:26:18+00:00"
         },
         {
             "name": "squizlabs/php_codesniffer",
