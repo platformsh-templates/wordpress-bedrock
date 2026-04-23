@@ -6080,12 +6080,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/Roave/SecurityAdvisories.git",
-                "reference": "10b8a93511210c9bae3be31f4fe13c3ff974cad4"
+                "reference": "9a1d6c95c513ebdc27e74ab3cd0fed99b7035c2e"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/Roave/SecurityAdvisories/zipball/10b8a93511210c9bae3be31f4fe13c3ff974cad4",
-                "reference": "10b8a93511210c9bae3be31f4fe13c3ff974cad4",
+                "url": "https://api.github.com/repos/Roave/SecurityAdvisories/zipball/9a1d6c95c513ebdc27e74ab3cd0fed99b7035c2e",
+                "reference": "9a1d6c95c513ebdc27e74ab3cd0fed99b7035c2e",
                 "shasum": ""
             },
             "conflict": {
@@ -6367,7 +6367,7 @@
                 "fisharebest/webtrees": "<=2.1.18",
                 "fixpunkt/fp-masterquiz": "<2.2.1|>=3,<3.5.2",
                 "fixpunkt/fp-newsletter": "<1.1.1|>=1.2,<2.1.2|>=2.2,<3.2.6",
-                "flarum/core": "<1.8.10",
+                "flarum/core": "<=1.8.15|>=2.0.0.0-beta1,<=2.0.0.0-beta8",
                 "flarum/flarum": "<0.1.0.0-beta8",
                 "flarum/framework": "<1.8.10",
                 "flarum/mentions": "<1.6.3",
@@ -7128,7 +7128,7 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2026-04-22T18:27:19+00:00"
+            "time": "2026-04-22T21:20:32+00:00"
         },
         {
             "name": "squizlabs/php_codesniffer",
