@@ -4312,16 +4312,16 @@
         },
         {
             "name": "wp-cli/entity-command",
-            "version": "v2.8.10",
+            "version": "v2.8.11",
             "source": {
                 "type": "git",
                 "url": "https://github.com/wp-cli/entity-command.git",
-                "reference": "4792ac24c3a0505adcbd28f5d9a653dad0893773"
+                "reference": "19fa93b2f26dc8183cad2b050b36b3318b7d6ab3"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/wp-cli/entity-command/zipball/4792ac24c3a0505adcbd28f5d9a653dad0893773",
-                "reference": "4792ac24c3a0505adcbd28f5d9a653dad0893773",
+                "url": "https://api.github.com/repos/wp-cli/entity-command/zipball/19fa93b2f26dc8183cad2b050b36b3318b7d6ab3",
+                "reference": "19fa93b2f26dc8183cad2b050b36b3318b7d6ab3",
                 "shasum": ""
             },
             "require": {
@@ -4540,6 +4540,13 @@
                     "user meta patch",
                     "user meta pluck",
                     "user meta update",
+                    "user privacy-request",
+                    "user privacy-request complete",
+                    "user privacy-request create",
+                    "user privacy-request delete",
+                    "user privacy-request erase",
+                    "user privacy-request export",
+                    "user privacy-request list",
                     "user remove-cap",
                     "user remove-role",
                     "user reset-password",
@@ -4593,9 +4600,9 @@
             "homepage": "https://github.com/wp-cli/entity-command",
             "support": {
                 "issues": "https://github.com/wp-cli/entity-command/issues",
-                "source": "https://github.com/wp-cli/entity-command/tree/v2.8.10"
+                "source": "https://github.com/wp-cli/entity-command/tree/v2.8.11"
             },
-            "time": "2026-04-02T11:08:41+00:00"
+            "time": "2026-05-04T13:06:32+00:00"
         },
         {
             "name": "wp-cli/eval-command",
@@ -5854,12 +5861,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/wp-cli/wp-cli.git",
-                "reference": "28467f557f84767d33d84adb57ff25d355c75403"
+                "reference": "dd0c55b323d05d5c4e4c19aaff40bc3177b9a25d"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/wp-cli/wp-cli/zipball/28467f557f84767d33d84adb57ff25d355c75403",
-                "reference": "28467f557f84767d33d84adb57ff25d355c75403",
+                "url": "https://api.github.com/repos/wp-cli/wp-cli/zipball/dd0c55b323d05d5c4e4c19aaff40bc3177b9a25d",
+                "reference": "dd0c55b323d05d5c4e4c19aaff40bc3177b9a25d",
                 "shasum": ""
             },
             "require": {
@@ -5930,7 +5937,7 @@
                 "issues": "https://github.com/wp-cli/wp-cli/issues",
                 "source": "https://github.com/wp-cli/wp-cli"
             },
-            "time": "2026-04-29T16:09:16+00:00"
+            "time": "2026-05-04T05:20:39+00:00"
         },
         {
             "name": "wp-cli/wp-cli-bundle",
