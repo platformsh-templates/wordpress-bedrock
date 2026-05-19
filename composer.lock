@@ -8,16 +8,16 @@
     "packages": [
         {
             "name": "composer/ca-bundle",
-            "version": "1.5.11",
+            "version": "1.5.12",
             "source": {
                 "type": "git",
                 "url": "https://github.com/composer/ca-bundle.git",
-                "reference": "68ff39175e8e94a4bb1d259407ce51a6a60f09e6"
+                "reference": "00a2f4201641d5c53f7fc0195e6c8d9fcc321a78"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/composer/ca-bundle/zipball/68ff39175e8e94a4bb1d259407ce51a6a60f09e6",
-                "reference": "68ff39175e8e94a4bb1d259407ce51a6a60f09e6",
+                "url": "https://api.github.com/repos/composer/ca-bundle/zipball/00a2f4201641d5c53f7fc0195e6c8d9fcc321a78",
+                "reference": "00a2f4201641d5c53f7fc0195e6c8d9fcc321a78",
                 "shasum": ""
             },
             "require": {
@@ -64,7 +64,7 @@
             "support": {
                 "irc": "irc://irc.freenode.org/composer",
                 "issues": "https://github.com/composer/ca-bundle/issues",
-                "source": "https://github.com/composer/ca-bundle/tree/1.5.11"
+                "source": "https://github.com/composer/ca-bundle/tree/1.5.12"
             },
             "funding": [
                 {
@@ -76,7 +76,7 @@
                     "type": "github"
                 }
             ],
-            "time": "2026-03-30T09:16:10+00:00"
+            "time": "2026-05-19T11:26:22+00:00"
         },
         {
             "name": "composer/class-map-generator",
@@ -5865,12 +5865,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/wp-cli/wp-cli.git",
-                "reference": "230ed78555e8a978a2da93633fbd6abb36cf34ab"
+                "reference": "2ed4a7115b847de6f87c4bb06d22b2db693a4e09"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/wp-cli/wp-cli/zipball/230ed78555e8a978a2da93633fbd6abb36cf34ab",
-                "reference": "230ed78555e8a978a2da93633fbd6abb36cf34ab",
+                "url": "https://api.github.com/repos/wp-cli/wp-cli/zipball/2ed4a7115b847de6f87c4bb06d22b2db693a4e09",
+                "reference": "2ed4a7115b847de6f87c4bb06d22b2db693a4e09",
                 "shasum": ""
             },
             "require": {
@@ -5941,7 +5941,7 @@
                 "issues": "https://github.com/wp-cli/wp-cli/issues",
                 "source": "https://github.com/wp-cli/wp-cli"
             },
-            "time": "2026-05-14T12:40:55+00:00"
+            "time": "2026-05-19T10:12:33+00:00"
         },
         {
             "name": "wp-cli/wp-cli-bundle",
@@ -6091,12 +6091,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/Roave/SecurityAdvisories.git",
-                "reference": "373cfc70b27bfc333e1dcd65382bd87eab3fa133"
+                "reference": "8b146460ff5ee1a279d1d934434ba6ba9dce2437"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/Roave/SecurityAdvisories/zipball/373cfc70b27bfc333e1dcd65382bd87eab3fa133",
-                "reference": "373cfc70b27bfc333e1dcd65382bd87eab3fa133",
+                "url": "https://api.github.com/repos/Roave/SecurityAdvisories/zipball/8b146460ff5ee1a279d1d934434ba6ba9dce2437",
+                "reference": "8b146460ff5ee1a279d1d934434ba6ba9dce2437",
                 "shasum": ""
             },
             "conflict": {
@@ -6807,7 +6807,7 @@
                 "scheb/two-factor-bundle": "<3.26|>=4,<4.11",
                 "sensiolabs/connect": "<4.2.3",
                 "serluck/phpwhois": "<=4.2.6",
-                "setasign/fpdi": "<2.6.4",
+                "setasign/fpdi": "<2.6.7",
                 "sfroemken/url_redirect": "<=1.2.1",
                 "sheng/yiicms": "<1.2.1",
                 "shopper/cart": "<2.8",
@@ -7152,7 +7152,7 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2026-05-18T17:47:51+00:00"
+            "time": "2026-05-19T20:37:54+00:00"
         },
         {
             "name": "squizlabs/php_codesniffer",
