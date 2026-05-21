@@ -5865,12 +5865,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/wp-cli/wp-cli.git",
-                "reference": "2ed4a7115b847de6f87c4bb06d22b2db693a4e09"
+                "reference": "4177cb58ca649407e390a264aa19577a4125fdfe"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/wp-cli/wp-cli/zipball/2ed4a7115b847de6f87c4bb06d22b2db693a4e09",
-                "reference": "2ed4a7115b847de6f87c4bb06d22b2db693a4e09",
+                "url": "https://api.github.com/repos/wp-cli/wp-cli/zipball/4177cb58ca649407e390a264aa19577a4125fdfe",
+                "reference": "4177cb58ca649407e390a264aa19577a4125fdfe",
                 "shasum": ""
             },
             "require": {
@@ -5941,7 +5941,7 @@
                 "issues": "https://github.com/wp-cli/wp-cli/issues",
                 "source": "https://github.com/wp-cli/wp-cli"
             },
-            "time": "2026-05-19T10:12:33+00:00"
+            "time": "2026-05-21T20:19:24+00:00"
         },
         {
             "name": "wp-cli/wp-cli-bundle",
@@ -6091,12 +6091,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/Roave/SecurityAdvisories.git",
-                "reference": "9276a922fc25db48ee71fefd089a086739024270"
+                "reference": "4c1054300f091028eb2270a56f7cf90528a2a19e"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/Roave/SecurityAdvisories/zipball/9276a922fc25db48ee71fefd089a086739024270",
-                "reference": "9276a922fc25db48ee71fefd089a086739024270",
+                "url": "https://api.github.com/repos/Roave/SecurityAdvisories/zipball/4c1054300f091028eb2270a56f7cf90528a2a19e",
+                "reference": "4c1054300f091028eb2270a56f7cf90528a2a19e",
                 "shasum": ""
             },
             "conflict": {
@@ -6216,7 +6216,7 @@
                 "ckeditor/ckeditor": "<4.25",
                 "clickstorm/cs-seo": ">=6,<6.8|>=7,<7.5|>=8,<8.4|>=9,<9.3",
                 "co-stack/fal_sftp": "<0.2.6",
-                "cockpit-hq/cockpit": "<2.14",
+                "cockpit-hq/cockpit": "<=2.14",
                 "code16/sharp": "<9.22",
                 "codeception/codeception": "<3.1.3|>=4,<4.1.22",
                 "codeigniter/framework": "<3.1.10",
@@ -6414,7 +6414,7 @@
                 "funadmin/funadmin": "<=7.1.0.0-RC6",
                 "gaoming13/wechat-php-sdk": "<=1.10.2",
                 "genix/cms": "<=1.1.11",
-                "georgringer/news": "<1.3.3",
+                "georgringer/news": "<11.4.4|>=12,<12.3.2|>=13,<13.0.2|>=14,<14.0.3",
                 "geshi/geshi": "<=1.0.9.1",
                 "getformwork/formwork": "<=2.3.3",
                 "getgrav/grav": "<=2.0.0.0-RC1",
@@ -6522,7 +6522,7 @@
                 "kimai/kimai": "<=2.55",
                 "kitodo/presentation": "<3.2.3|>=3.3,<3.3.4",
                 "klaviyo/magento2-extension": ">=1,<3",
-                "knplabs/knp-snappy": "<=1.4.2",
+                "knplabs/knp-snappy": "<=1.7",
                 "kohana/core": "<3.3.3",
                 "koillection/koillection": "<1.6.12",
                 "krayin/laravel-crm": "<=2.2",
@@ -7165,7 +7165,7 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2026-05-20T23:30:51+00:00"
+            "time": "2026-05-21T20:38:42+00:00"
         },
         {
             "name": "squizlabs/php_codesniffer",
