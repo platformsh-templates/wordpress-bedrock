@@ -6091,12 +6091,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/Roave/SecurityAdvisories.git",
-                "reference": "4c1054300f091028eb2270a56f7cf90528a2a19e"
+                "reference": "21c2b457ed7139d838217f22d48985e5e2f80e5f"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/Roave/SecurityAdvisories/zipball/4c1054300f091028eb2270a56f7cf90528a2a19e",
-                "reference": "4c1054300f091028eb2270a56f7cf90528a2a19e",
+                "url": "https://api.github.com/repos/Roave/SecurityAdvisories/zipball/21c2b457ed7139d838217f22d48985e5e2f80e5f",
+                "reference": "21c2b457ed7139d838217f22d48985e5e2f80e5f",
                 "shasum": ""
             },
             "conflict": {
@@ -6977,9 +6977,9 @@
                 "truckersmp/phpwhois": "<=4.3.1",
                 "ttskch/pagination-service-provider": "<1",
                 "twbs/bootstrap": "<3.4.1|>=4,<4.3.1",
-                "twig/cssinliner-extra": ">=2.12,<3.26",
-                "twig/intl-extra": ">=2.12,<3.26",
-                "twig/markdown-extra": ">=2.12,<3.26",
+                "twig/cssinliner-extra": "<3.26",
+                "twig/intl-extra": "<3.26",
+                "twig/markdown-extra": "<3.26",
                 "twig/twig": "<3.26",
                 "typicms/core": "<16.1.7",
                 "typo3/cms": "<9.5.29|>=10,<10.4.35|>=11,<11.5.23|>=12,<12.2",
@@ -7165,7 +7165,7 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2026-05-21T20:38:42+00:00"
+            "time": "2026-05-21T21:34:10+00:00"
         },
         {
             "name": "squizlabs/php_codesniffer",
