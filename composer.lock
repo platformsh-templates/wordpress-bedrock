@@ -6091,12 +6091,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/Roave/SecurityAdvisories.git",
-                "reference": "989eb9b7cd70a5b5c22d4b927b4e43bbca920277"
+                "reference": "dbed7be7bb408eef2d3812a0d173671940f92a9a"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/Roave/SecurityAdvisories/zipball/989eb9b7cd70a5b5c22d4b927b4e43bbca920277",
-                "reference": "989eb9b7cd70a5b5c22d4b927b4e43bbca920277",
+                "url": "https://api.github.com/repos/Roave/SecurityAdvisories/zipball/dbed7be7bb408eef2d3812a0d173671940f92a9a",
+                "reference": "dbed7be7bb408eef2d3812a0d173671940f92a9a",
                 "shasum": ""
             },
             "conflict": {
@@ -6411,7 +6411,7 @@
                 "friendsoftypo3/tt-address": "<8.1.2|>=9,<9.1.1|>=10,<10.0.1",
                 "froala/wysiwyg-editor": "<=4.3",
                 "frosh/adminer-platform": "<2.2.1",
-                "froxlor/froxlor": "<=2.3.6",
+                "froxlor/froxlor": "<2.3.7",
                 "frozennode/administrator": "<=5.0.12",
                 "fuel/core": "<1.8.1",
                 "funadmin/funadmin": "<=7.1.0.0-RC6",
@@ -7174,7 +7174,7 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2026-06-03T21:07:36+00:00"
+            "time": "2026-06-03T22:45:07+00:00"
         },
         {
             "name": "squizlabs/php_codesniffer",
