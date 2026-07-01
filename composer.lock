@@ -149,16 +149,16 @@
         },
         {
             "name": "composer/composer",
-            "version": "2.10.1",
+            "version": "2.10.2",
             "source": {
                 "type": "git",
                 "url": "https://github.com/composer/composer.git",
-                "reference": "4120703b9bda8795075047b40361d7ec4d2abe49"
+                "reference": "8d4439f572a97670a9edc039eb3b093cc976b4bc"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/composer/composer/zipball/4120703b9bda8795075047b40361d7ec4d2abe49",
-                "reference": "4120703b9bda8795075047b40361d7ec4d2abe49",
+                "url": "https://api.github.com/repos/composer/composer/zipball/8d4439f572a97670a9edc039eb3b093cc976b4bc",
+                "reference": "8d4439f572a97670a9edc039eb3b093cc976b4bc",
                 "shasum": ""
             },
             "require": {
@@ -246,7 +246,7 @@
                 "irc": "ircs://irc.libera.chat:6697/composer",
                 "issues": "https://github.com/composer/composer/issues",
                 "security": "https://github.com/composer/composer/security/policy",
-                "source": "https://github.com/composer/composer/tree/2.10.1"
+                "source": "https://github.com/composer/composer/tree/2.10.2"
             },
             "funding": [
                 {
@@ -258,7 +258,7 @@
                     "type": "github"
                 }
             ],
-            "time": "2026-06-04T08:25:59+00:00"
+            "time": "2026-07-01T09:24:45+00:00"
         },
         {
             "name": "composer/installers",
@@ -3892,16 +3892,16 @@
         },
         {
             "name": "wp-cli/checksum-command",
-            "version": "v2.3.6",
+            "version": "v2.3.7",
             "source": {
                 "type": "git",
                 "url": "https://github.com/wp-cli/checksum-command.git",
-                "reference": "c5e676f9552bcda8d9b71884dca43a18a74f981f"
+                "reference": "2919dd70de697dce48e551b4c9ced825d4154bfe"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/wp-cli/checksum-command/zipball/c5e676f9552bcda8d9b71884dca43a18a74f981f",
-                "reference": "c5e676f9552bcda8d9b71884dca43a18a74f981f",
+                "url": "https://api.github.com/repos/wp-cli/checksum-command/zipball/2919dd70de697dce48e551b4c9ced825d4154bfe",
+                "reference": "2919dd70de697dce48e551b4c9ced825d4154bfe",
                 "shasum": ""
             },
             "require": {
@@ -3945,9 +3945,9 @@
             "homepage": "https://github.com/wp-cli/checksum-command",
             "support": {
                 "issues": "https://github.com/wp-cli/checksum-command/issues",
-                "source": "https://github.com/wp-cli/checksum-command/tree/v2.3.6"
+                "source": "https://github.com/wp-cli/checksum-command/tree/v2.3.7"
             },
-            "time": "2026-06-08T16:57:20+00:00"
+            "time": "2026-06-30T12:37:02+00:00"
         },
         {
             "name": "wp-cli/config-command",
@@ -6086,12 +6086,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/Roave/SecurityAdvisories.git",
-                "reference": "9eb7881a3ed4824d580790ef7d52d9bf14dac23d"
+                "reference": "9262c2edda6411e4141fe83a75530de48b39ff5a"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/Roave/SecurityAdvisories/zipball/9eb7881a3ed4824d580790ef7d52d9bf14dac23d",
-                "reference": "9eb7881a3ed4824d580790ef7d52d9bf14dac23d",
+                "url": "https://api.github.com/repos/Roave/SecurityAdvisories/zipball/9262c2edda6411e4141fe83a75530de48b39ff5a",
+                "reference": "9262c2edda6411e4141fe83a75530de48b39ff5a",
                 "shasum": ""
             },
             "conflict": {
@@ -6525,7 +6525,7 @@
                 "kelvinmo/simplexrd": "<3.1.1",
                 "kevinpapst/kimai2": "<1.16.7",
                 "khodakhah/nodcms": "<=3.4.1",
-                "kimai/kimai": "<=2.55",
+                "kimai/kimai": "<=2.57",
                 "kitodo/presentation": "<3.2.3|>=3.3,<3.3.4",
                 "klaviyo/magento2-extension": ">=1,<3",
                 "knplabs/knp-snappy": "<=1.7",
@@ -7193,7 +7193,7 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2026-06-30T19:37:35+00:00"
+            "time": "2026-07-01T20:38:27+00:00"
         },
         {
             "name": "squizlabs/php_codesniffer",
