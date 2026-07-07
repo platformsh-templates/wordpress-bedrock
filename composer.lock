@@ -5860,12 +5860,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/wp-cli/wp-cli.git",
-                "reference": "c05ad1c1a67358baa9f50d554757f5f7fe21945f"
+                "reference": "1c06435200bcaeafd493d9492340309885e565fb"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/wp-cli/wp-cli/zipball/c05ad1c1a67358baa9f50d554757f5f7fe21945f",
-                "reference": "c05ad1c1a67358baa9f50d554757f5f7fe21945f",
+                "url": "https://api.github.com/repos/wp-cli/wp-cli/zipball/1c06435200bcaeafd493d9492340309885e565fb",
+                "reference": "1c06435200bcaeafd493d9492340309885e565fb",
                 "shasum": ""
             },
             "require": {
@@ -5937,7 +5937,7 @@
                 "issues": "https://github.com/wp-cli/wp-cli/issues",
                 "source": "https://github.com/wp-cli/wp-cli"
             },
-            "time": "2026-07-06T11:06:44+00:00"
+            "time": "2026-07-07T09:27:22+00:00"
         },
         {
             "name": "wp-cli/wp-cli-bundle",
@@ -6087,12 +6087,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/Roave/SecurityAdvisories.git",
-                "reference": "4d2ca579be8edb76a7f0dcdc654025e67bda6d5d"
+                "reference": "0d7c863abe9c47c4737948a9a6a4720254ee9206"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/Roave/SecurityAdvisories/zipball/4d2ca579be8edb76a7f0dcdc654025e67bda6d5d",
-                "reference": "4d2ca579be8edb76a7f0dcdc654025e67bda6d5d",
+                "url": "https://api.github.com/repos/Roave/SecurityAdvisories/zipball/0d7c863abe9c47c4737948a9a6a4720254ee9206",
+                "reference": "0d7c863abe9c47c4737948a9a6a4720254ee9206",
                 "shasum": ""
             },
             "conflict": {
@@ -6331,7 +6331,7 @@
                 "ec-cube/ec-cube": "<2.4.4|>=2.11,<=2.17.1|>=3,<=3.0.18.0-patch4|>=4,<=4.3.1",
                 "ecodev/newsletter": "<=4",
                 "ectouch/ectouch": "<=2.7.2",
-                "egroupware/egroupware": "<23.1.20260113|>=26.0.20251208,<26.0.20260113",
+                "egroupware/egroupware": "<23.1.20260601|>=26.0.20251208,<26.5.20260507",
                 "elefant/cms": "<2.0.7",
                 "elgg/elgg": "<3.3.24|>=4,<4.0.5",
                 "elijaa/phpmemcacheadmin": "<=1.3",
@@ -7197,7 +7197,7 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2026-07-06T17:42:37+00:00"
+            "time": "2026-07-07T13:20:37+00:00"
         },
         {
             "name": "squizlabs/php_codesniffer",
