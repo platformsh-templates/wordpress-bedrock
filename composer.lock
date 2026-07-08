@@ -6087,12 +6087,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/Roave/SecurityAdvisories.git",
-                "reference": "0d7c863abe9c47c4737948a9a6a4720254ee9206"
+                "reference": "f3cd286075d77e060417bf42edcc29917deab05e"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/Roave/SecurityAdvisories/zipball/0d7c863abe9c47c4737948a9a6a4720254ee9206",
-                "reference": "0d7c863abe9c47c4737948a9a6a4720254ee9206",
+                "url": "https://api.github.com/repos/Roave/SecurityAdvisories/zipball/f3cd286075d77e060417bf42edcc29917deab05e",
+                "reference": "f3cd286075d77e060417bf42edcc29917deab05e",
                 "shasum": ""
             },
             "conflict": {
@@ -7065,7 +7065,7 @@
                 "wanglelecc/laracms": "<=1.0.3",
                 "wapplersystems/a21glossary": "<=0.4.10",
                 "web-auth/webauthn-framework": ">=3.3,<3.3.4|>=4.5,<4.9|>=5.2,<5.2.4|>=5.3,<5.3.1",
-                "web-auth/webauthn-lib": ">=4.5,<4.9|>=5.2,<5.2.4",
+                "web-auth/webauthn-lib": ">=4.5,<5.3.5",
                 "web-auth/webauthn-symfony-bundle": "<5.3.4",
                 "web-feet/coastercms": "==5.5",
                 "web-token/jwt-bundle": "<3.4.10|>=4,<4.0.7|>=4.1,<4.1.7",
@@ -7197,7 +7197,7 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2026-07-07T13:20:37+00:00"
+            "time": "2026-07-08T02:37:08+00:00"
         },
         {
             "name": "squizlabs/php_codesniffer",
