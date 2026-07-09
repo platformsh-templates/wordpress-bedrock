@@ -6087,12 +6087,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/Roave/SecurityAdvisories.git",
-                "reference": "f3cd286075d77e060417bf42edcc29917deab05e"
+                "reference": "1c42f8ab3728bd379639d1988a955d673d4cb365"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/Roave/SecurityAdvisories/zipball/f3cd286075d77e060417bf42edcc29917deab05e",
-                "reference": "f3cd286075d77e060417bf42edcc29917deab05e",
+                "url": "https://api.github.com/repos/Roave/SecurityAdvisories/zipball/1c42f8ab3728bd379639d1988a955d673d4cb365",
+                "reference": "1c42f8ab3728bd379639d1988a955d673d4cb365",
                 "shasum": ""
             },
             "conflict": {
@@ -6216,7 +6216,7 @@
                 "clickstorm/cs-seo": ">=6,<6.8|>=7,<7.5|>=8,<8.4|>=9,<9.3",
                 "co-stack/fal_sftp": "<0.2.6",
                 "cockpit-hq/cockpit": "<=2.14",
-                "code16/sharp": "<9.22",
+                "code16/sharp": "<9.22.3",
                 "codeception/codeception": "<3.1.3|>=4,<4.1.22",
                 "codeigniter/framework": "<3.1.10",
                 "codeigniter4/framework": "<4.7.2",
@@ -7197,7 +7197,7 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2026-07-08T02:37:08+00:00"
+            "time": "2026-07-08T22:04:46+00:00"
         },
         {
             "name": "squizlabs/php_codesniffer",
