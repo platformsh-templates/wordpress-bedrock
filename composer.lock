@@ -4099,16 +4099,16 @@
         },
         {
             "name": "wp-cli/cron-command",
-            "version": "v2.3.9",
+            "version": "v2.3.10",
             "source": {
                 "type": "git",
                 "url": "https://github.com/wp-cli/cron-command.git",
-                "reference": "1203c730d969153b37d828abbcbec16d8c937932"
+                "reference": "7fa5feab2d34d9c81ddfeb4d7a5a896fa72a3d73"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/wp-cli/cron-command/zipball/1203c730d969153b37d828abbcbec16d8c937932",
-                "reference": "1203c730d969153b37d828abbcbec16d8c937932",
+                "url": "https://api.github.com/repos/wp-cli/cron-command/zipball/7fa5feab2d34d9c81ddfeb4d7a5a896fa72a3d73",
+                "reference": "7fa5feab2d34d9c81ddfeb4d7a5a896fa72a3d73",
                 "shasum": ""
             },
             "require": {
@@ -4162,9 +4162,9 @@
             "homepage": "https://github.com/wp-cli/cron-command",
             "support": {
                 "issues": "https://github.com/wp-cli/cron-command/issues",
-                "source": "https://github.com/wp-cli/cron-command/tree/v2.3.9"
+                "source": "https://github.com/wp-cli/cron-command/tree/v2.3.10"
             },
-            "time": "2026-05-19T10:12:12+00:00"
+            "time": "2026-07-09T09:38:22+00:00"
         },
         {
             "name": "wp-cli/db-command",
@@ -5225,20 +5225,20 @@
         },
         {
             "name": "wp-cli/package-command",
-            "version": "v2.7.2",
+            "version": "v2.7.3",
             "source": {
                 "type": "git",
                 "url": "https://github.com/wp-cli/package-command.git",
-                "reference": "b2765da6ce28c4db0480fff77da668cf07c58f1a"
+                "reference": "d2af7d07eafa91cd5ec0f7921146051b21384abd"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/wp-cli/package-command/zipball/b2765da6ce28c4db0480fff77da668cf07c58f1a",
-                "reference": "b2765da6ce28c4db0480fff77da668cf07c58f1a",
+                "url": "https://api.github.com/repos/wp-cli/package-command/zipball/d2af7d07eafa91cd5ec0f7921146051b21384abd",
+                "reference": "d2af7d07eafa91cd5ec0f7921146051b21384abd",
                 "shasum": ""
             },
             "require": {
-                "composer/composer": "^2.9.5",
+                "composer/composer": "^2.10.2",
                 "ext-json": "*",
                 "wp-cli/wp-cli": "^2.13"
             },
@@ -5287,9 +5287,9 @@
             "homepage": "https://github.com/wp-cli/package-command",
             "support": {
                 "issues": "https://github.com/wp-cli/package-command/issues",
-                "source": "https://github.com/wp-cli/package-command/tree/v2.7.2"
+                "source": "https://github.com/wp-cli/package-command/tree/v2.7.3"
             },
-            "time": "2026-05-19T12:21:33+00:00"
+            "time": "2026-07-02T09:15:28+00:00"
         },
         {
             "name": "wp-cli/php-cli-tools",
@@ -6087,18 +6087,18 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/Roave/SecurityAdvisories.git",
-                "reference": "1c42f8ab3728bd379639d1988a955d673d4cb365"
+                "reference": "b0ff8a841002c8ff71a23d0b100a7a24fd54ba18"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/Roave/SecurityAdvisories/zipball/1c42f8ab3728bd379639d1988a955d673d4cb365",
-                "reference": "1c42f8ab3728bd379639d1988a955d673d4cb365",
+                "url": "https://api.github.com/repos/Roave/SecurityAdvisories/zipball/b0ff8a841002c8ff71a23d0b100a7a24fd54ba18",
+                "reference": "b0ff8a841002c8ff71a23d0b100a7a24fd54ba18",
                 "shasum": ""
             },
             "conflict": {
                 "3f/pygmentize": "<1.2",
                 "adaptcms/adaptcms": "<=1.3",
-                "admidio/admidio": "<=5.0.9",
+                "admidio/admidio": "<=5.0.11",
                 "adodb/adodb-php": "<=5.22.9",
                 "aheinze/cockpit": "<2.2",
                 "aimeos/ai-admin-graphql": ">=2022.04.1,<2022.10.10|>=2023.04.1,<2023.10.6|>=2024.04.1,<2024.07.2",
@@ -7008,7 +7008,7 @@
                 "twig/intl-extra": "<3.26",
                 "twig/markdown-extra": "<3.26",
                 "twig/twig": "<3.27",
-                "typicms/core": "<16.1.7",
+                "typicms/core": "<12.0.5|>=13,<13.0.9|>=14,<14.0.27|>=15,<15.0.29|>=16,<16.1.7",
                 "typo3/cms": "<9.5.29|>=10,<10.4.35|>=11,<11.5.23|>=12,<12.2",
                 "typo3/cms-backend": "<10.4.57|>=11,<11.5.51|>=12,<12.4.46|>=13,<13.4.31|>=14,<14.3.3",
                 "typo3/cms-belog": ">=10,<=10.4.47|>=11,<=11.5.41|>=12,<=12.4.24|>=13,<=13.4.2",
@@ -7197,7 +7197,7 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2026-07-08T22:04:46+00:00"
+            "time": "2026-07-09T17:55:12+00:00"
         },
         {
             "name": "squizlabs/php_codesniffer",
