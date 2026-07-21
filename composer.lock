@@ -6087,12 +6087,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/Roave/SecurityAdvisories.git",
-                "reference": "2b18d5bb6d31a091a0305244ccf6ed539470f5be"
+                "reference": "e018fe05ea951d66d1d5f066b4b4aac0366c7a4a"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/Roave/SecurityAdvisories/zipball/2b18d5bb6d31a091a0305244ccf6ed539470f5be",
-                "reference": "2b18d5bb6d31a091a0305244ccf6ed539470f5be",
+                "url": "https://api.github.com/repos/Roave/SecurityAdvisories/zipball/e018fe05ea951d66d1d5f066b4b4aac0366c7a4a",
+                "reference": "e018fe05ea951d66d1d5f066b4b4aac0366c7a4a",
                 "shasum": ""
             },
             "conflict": {
@@ -6444,7 +6444,7 @@
                 "gregwar/rst": "<1.0.3",
                 "grumpydictator/firefly-iii": "<=6.6.2",
                 "gugoan/economizzer": "<=0.9.0.0-beta1",
-                "guzzlehttp/guzzle": "<7.12.1",
+                "guzzlehttp/guzzle": "<7.15.1",
                 "guzzlehttp/guzzle-services": "<1.5.4",
                 "guzzlehttp/oauth-subscriber": "<0.8.1",
                 "guzzlehttp/psr7": "<2.12.1",
@@ -7201,7 +7201,7 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2026-07-20T20:20:11+00:00"
+            "time": "2026-07-21T02:36:18+00:00"
         },
         {
             "name": "squizlabs/php_codesniffer",
