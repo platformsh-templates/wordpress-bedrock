@@ -5860,12 +5860,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/wp-cli/wp-cli.git",
-                "reference": "271735d54b45dca54115dd73d4c8f36f5345319e"
+                "reference": "776897923176304d813dae252799d1790c6a0cb6"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/wp-cli/wp-cli/zipball/271735d54b45dca54115dd73d4c8f36f5345319e",
-                "reference": "271735d54b45dca54115dd73d4c8f36f5345319e",
+                "url": "https://api.github.com/repos/wp-cli/wp-cli/zipball/776897923176304d813dae252799d1790c6a0cb6",
+                "reference": "776897923176304d813dae252799d1790c6a0cb6",
                 "shasum": ""
             },
             "require": {
@@ -5937,7 +5937,7 @@
                 "issues": "https://github.com/wp-cli/wp-cli/issues",
                 "source": "https://github.com/wp-cli/wp-cli"
             },
-            "time": "2026-07-21T15:16:03+00:00"
+            "time": "2026-07-23T02:41:42+00:00"
         },
         {
             "name": "wp-cli/wp-cli-bundle",
@@ -6087,12 +6087,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/Roave/SecurityAdvisories.git",
-                "reference": "4991713e587e8b1f2fb7ce80475b4df68fe71be1"
+                "reference": "a149dec0fd68dfc62ce9c67b4db2542d80b4f605"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/Roave/SecurityAdvisories/zipball/4991713e587e8b1f2fb7ce80475b4df68fe71be1",
-                "reference": "4991713e587e8b1f2fb7ce80475b4df68fe71be1",
+                "url": "https://api.github.com/repos/Roave/SecurityAdvisories/zipball/a149dec0fd68dfc62ce9c67b4db2542d80b4f605",
+                "reference": "a149dec0fd68dfc62ce9c67b4db2542d80b4f605",
                 "shasum": ""
             },
             "conflict": {
@@ -6289,7 +6289,7 @@
                 "doctrine/mongodb-odm-bundle": "<3.0.1",
                 "doctrine/orm": ">=1,<1.2.4|>=2,<2.4.8|>=2.5,<2.5.1|>=2.8.3,<2.8.4",
                 "dolibarr/dolibarr": "<=23.0.2",
-                "dompdf/dompdf": "<2.0.4",
+                "dompdf/dompdf": "<3.1.6",
                 "doublethreedigital/guest-entries": "<3.1.2",
                 "dreamfactory/df-core": "<1.0.4",
                 "drupal-pattern-lab/unified-twig-extensions": "<=0.1",
@@ -7201,7 +7201,7 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2026-07-21T19:20:48+00:00"
+            "time": "2026-07-22T23:02:35+00:00"
         },
         {
             "name": "squizlabs/php_codesniffer",
