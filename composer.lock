@@ -5979,12 +5979,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/Roave/SecurityAdvisories.git",
-                "reference": "e2d6c51234af0e54a4726e260447a297bae26303"
+                "reference": "6c0be3a74b4e70c18693ae5dc183132b4d17603a"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/Roave/SecurityAdvisories/zipball/e2d6c51234af0e54a4726e260447a297bae26303",
-                "reference": "e2d6c51234af0e54a4726e260447a297bae26303",
+                "url": "https://api.github.com/repos/Roave/SecurityAdvisories/zipball/6c0be3a74b4e70c18693ae5dc183132b4d17603a",
+                "reference": "6c0be3a74b4e70c18693ae5dc183132b4d17603a",
                 "shasum": ""
             },
             "conflict": {
@@ -6616,6 +6616,7 @@
                 "pegasus/google-for-jobs": "<1.5.1|>=2,<2.1.1",
                 "personnummer/personnummer": "<3.0.2",
                 "ph7software/ph7builder": "<=17.9.1",
+                "phalcon/cphalcon": "<=5.15",
                 "phanan/koel": "<=9.7",
                 "pheditor/pheditor": "<2.0.8",
                 "phenx/php-svg-lib": "<0.5.2",
@@ -7021,7 +7022,7 @@
                 "yikesinc/yikes-inc-easy-mailchimp-extender": "<6.8.6",
                 "yoast-seo-for-typo3/yoast_seo": "<7.2.3",
                 "yoast/duplicate-post": "<=4.5",
-                "yourls/yourls": "<=1.10.2",
+                "yourls/yourls": "<=1.10.3",
                 "yuan1994/tpadmin": "<=1.3.12",
                 "yungifez/skuul": "<=2.6.5",
                 "z-push/z-push-dev": "<2.7.6",
@@ -7100,7 +7101,7 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2026-08-21T19:25:46+00:00"
+            "time": "2026-08-21T21:23:53+00:00"
         },
         {
             "name": "squizlabs/php_codesniffer",
