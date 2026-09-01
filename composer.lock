@@ -5981,12 +5981,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/Roave/SecurityAdvisories.git",
-                "reference": "2f891ad13c35ae7d74f84963331a144d33ae3f57"
+                "reference": "75320b4f4aea335128da75a67d55a77dc1f0e8c1"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/Roave/SecurityAdvisories/zipball/2f891ad13c35ae7d74f84963331a144d33ae3f57",
-                "reference": "2f891ad13c35ae7d74f84963331a144d33ae3f57",
+                "url": "https://api.github.com/repos/Roave/SecurityAdvisories/zipball/75320b4f4aea335128da75a67d55a77dc1f0e8c1",
+                "reference": "75320b4f4aea335128da75a67d55a77dc1f0e8c1",
                 "shasum": ""
             },
             "conflict": {
@@ -6458,7 +6458,7 @@
                 "lavalite/cms": "<=10.1",
                 "lavitto/typo3-form-to-database": "<2.2.5|>=3,<3.2.2|>=4,<4.2.3|>=5,<5.0.2",
                 "lcobucci/jwt": ">=3.4,<3.4.6|>=4,<4.0.4|>=4.1,<4.1.5",
-                "league/commonmark": "<2.9",
+                "league/commonmark": "<2.10",
                 "league/flysystem": "<1.1.4|>=2,<2.1.1",
                 "league/oauth2-server": ">=8.3.2,<8.4.2|>=8.5,<8.5.3",
                 "leantime/leantime": "<3.3",
@@ -6813,7 +6813,7 @@
                 "starcitizentools/short-description": ">=4,<4.0.1",
                 "starcitizentools/tabber-neue": ">=1.9.1,<2.7.2|>=3,<3.1.1",
                 "starcitizenwiki/embedvideo": "<=4",
-                "statamic/cms": "<5.74.3|>=6,<6.24.2",
+                "statamic/cms": "<5.74.3|>=6,<=6.30",
                 "stormpath/sdk": "<9.9.99",
                 "studio-42/elfinder": "<=2.1.69",
                 "studiomitte/friendlycaptcha": "<0.1.4",
@@ -7116,7 +7116,7 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2026-08-31T22:31:49+00:00"
+            "time": "2026-09-01T20:37:29+00:00"
         },
         {
             "name": "squizlabs/php_codesniffer",
