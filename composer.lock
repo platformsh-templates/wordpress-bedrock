@@ -1894,7 +1894,7 @@
         },
         {
             "name": "roots/wordpress",
-            "version": "6.9.7",
+            "version": "6.9.8",
             "source": {
                 "type": "git",
                 "url": "https://github.com/roots/wordpress.git",
@@ -1925,7 +1925,7 @@
             ],
             "support": {
                 "issues": "https://github.com/roots/wordpress/issues",
-                "source": "https://github.com/roots/wordpress/tree/7.0.4"
+                "source": "https://github.com/roots/wordpress/tree/7.1.1"
             },
             "funding": [
                 {
@@ -2004,23 +2004,23 @@
         },
         {
             "name": "roots/wordpress-no-content",
-            "version": "6.9.7",
+            "version": "6.9.8",
             "source": {
                 "type": "git",
                 "url": "https://github.com/WordPress/WordPress.git",
-                "reference": "6.9.7"
+                "reference": "6.9.8"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.w.org/release/wordpress-6.9.7-no-content.zip",
-                "reference": "6.9.7",
-                "shasum": "32c7a1121934995d9399d78d6d7f848468a6318a"
+                "url": "https://downloads.w.org/release/wordpress-6.9.8-no-content.zip",
+                "reference": "6.9.8",
+                "shasum": "f2d2a09f7ba85ace062e552f2af53b27f1c1111e"
             },
             "require": {
                 "php": ">= 7.2.24"
             },
             "provide": {
-                "wordpress/core-implementation": "6.9.7"
+                "wordpress/core-implementation": "6.9.8"
             },
             "suggest": {
                 "ext-curl": "Performs remote request operations.",
@@ -2071,7 +2071,7 @@
                     "type": "other"
                 }
             ],
-            "time": "2026-08-12T14:47:32+00:00"
+            "time": "2026-09-17T19:44:22+00:00"
         },
         {
             "name": "roots/wp-config",
