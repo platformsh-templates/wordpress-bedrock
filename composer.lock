@@ -5982,12 +5982,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/Roave/SecurityAdvisories.git",
-                "reference": "e8a348ddcd0471340bb139a8754a84429ee06377"
+                "reference": "1805b1da31c2d052eebd2516fdeeb6467c3671ea"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/Roave/SecurityAdvisories/zipball/e8a348ddcd0471340bb139a8754a84429ee06377",
-                "reference": "e8a348ddcd0471340bb139a8754a84429ee06377",
+                "url": "https://api.github.com/repos/Roave/SecurityAdvisories/zipball/1805b1da31c2d052eebd2516fdeeb6467c3671ea",
+                "reference": "1805b1da31c2d052eebd2516fdeeb6467c3671ea",
                 "shasum": ""
             },
             "conflict": {
@@ -6478,6 +6478,7 @@
                 "liftkit/database": "<2.13.2",
                 "lightsaml/lightsaml": "<1.3.5",
                 "limesurvey/limesurvey": "<=7.0.0.0-beta1",
+                "litesaml/lightsaml": ">=6,<6.0.1",
                 "livehelperchat/livehelperchat": "<=3.91",
                 "livewire-filemanager/filemanager": "<=1.0.4",
                 "livewire/livewire": "<2.12.7|>=3.0.0.0-beta1,<=3.8.2|>=4.0.0.0-beta1,<=4.3.3",
@@ -7132,7 +7133,7 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2026-10-15T21:57:33+00:00"
+            "time": "2026-10-19T12:15:12+00:00"
         },
         {
             "name": "squizlabs/php_codesniffer",
